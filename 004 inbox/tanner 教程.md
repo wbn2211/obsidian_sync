@@ -16,4 +16,5 @@
 6. 连接完成之后点击 `Check` 检查、保存![[Pasted image 20231114204403.png]]![[Pasted image 20231114204452.png]]
 7. 点击 `Cell > Generate Symbols` 生成反相器的符号![[Pasted image 20231114204705.png]]![[Pasted image 20231114204936.png]]
 8. 进入符号绘制界面，使用 `Path` 绘制标准的反相器符号![[Pasted image 20231114205100.png]]![[Pasted image 20231114205207.png]]![[Pasted image 20231114205218.png]]
-***PS5*** 绘制反相器符号时，使用 `Path` 和线条角度变换绘制符号![[Pasted image 20231114205455.png]]
+***PS5*** 绘制反相器符号时，使用 `Path` 和线条角度变换绘制符号，也可以在 `Properties` 中编辑选中部分属性![[Pasted image 20231114205455.png]]![[Pasted image 20231114205718.png]]
+9. 绘制结束后**保存**，通过 `View > Cell View > View Sch` ![[Pasted image 20231114205958.png]]
