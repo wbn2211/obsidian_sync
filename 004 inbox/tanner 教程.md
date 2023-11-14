@@ -1,4 +1,4 @@
-# TANNER 软件的使用教程——以与非门电路为例
+# Tanner 软件的使用教程——以反相器电路为例
 ## 一、 使用 S-Edit 绘制原理图
 1. 打开 S-Edit 单击 `New Design` 新建一个项目![[Pasted image 20231114171725.png]]
 2. 自定义项目名称和存储地点![[Pasted image 20231114171808.png]]
@@ -14,4 +14,5 @@
 ***PS3*** 如果找不到元件在哪一个库中可以通过下方的搜索框进行搜索，可以通过选中元件库进行库中搜索![[Pasted image 20231114203927.png]]
 ***PS4*** 如果不小心关闭 S-Edit 可以通过如下的方式恢复自己的原理图绘制：如图选择 `File > Open > Open Design` 打开自己保存的文件![[Pasted image 20231114193807.png]]如果打开保存的文件之后如图没有弹出编辑界面，可以通过右侧的 `Libraries` 中点击自己的库名，在下侧找到自己的文件右键 `Open View > schematic` 打开原理图![[Pasted image 20231114195107.png]]
 6. 连接完成之后点击 `Check` 检查、保存![[Pasted image 20231114204403.png]]![[Pasted image 20231114204452.png]]
-7. 
+7. 点击 `Cell > Generate Symbols` 生成反相器的符号![[Pasted image 20231114204705.png]]![[Pasted image 20231114204936.png]]
+8. 

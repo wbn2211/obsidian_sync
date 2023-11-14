@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004 inbox/tanner 教程.md"
+                "file": "004 inbox/Tanner 教程.md"
               }
             }
           }
@@ -74,7 +74,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004 inbox/tanner 教程.md",
+                "file": "004 inbox/Tanner 教程.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004 inbox/tanner 教程.md",
+                "file": "004 inbox/Tanner 教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,6 +232,8 @@
   },
   "active": "c66a641d3073d25e",
   "lastOpenFiles": [
+    "-001 图片库/Pasted image 20231114204936.png",
+    "-001 图片库/Pasted image 20231114204705.png",
     "-001 图片库/Pasted image 20231114204452.png",
     "-001 图片库/Pasted image 20231114204403.png",
     "-001 图片库/Pasted image 20231114203927.png",
@@ -242,9 +244,7 @@
     "-001 图片库/Pasted image 20231114193807.png",
     "-001 图片库/Pasted image 20231114174730.png",
     "004 inbox/第二章 扩散.md",
-    "004 inbox/tanner 教程.md",
-    "-001 图片库/Pasted image 20231114172549.png",
-    "-001 图片库/Pasted image 20231114172307.png",
+    "004 inbox/Tanner 教程.md",
     "003 笔记/半导体工艺原理/第一章 半导体衬底.md",
     "001 书架/读书笔记/关于正确处理人民内部矛盾的问题.md",
     "004 inbox/在 Ubuntu 上搭建使用 Jellyfin 的影视库.md",
