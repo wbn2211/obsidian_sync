@@ -24,9 +24,12 @@
 11. 放置`Print Voltage` ![[Pasted image 20231114210618.png]]
 12. 单击`Check` 并进行**保存**
 13. 在 `File > Export > Export SPICE` 导出 `.spc` 网表文件 ![[Pasted image 20231114210816.png]]
+## 二、使用 T-Spice 进行仿真
 14. 使用 T-Spice 打开 `.spc` 文件![[Pasted image 20231114211420.png]]
 15. 修改 `spc` 文件
 	1. 通过 `Edit > Insert Command` 更改![[Pasted image 20231114211819.png]]
 	2. 在`Files > Library file` 中输入库绝对路径，该库可以在`~\2023-2024-1EDA参考资料和软件\tanner\Libraries\Libraries\Libraries\Models\` 找到 ![[Pasted image 20231114212032.png]]
-	3. 单击 `Insert Command` 插入命令，并在命令结尾加上 `tt`（无需注意大小写）
-	4. 
+	3. 单击 `Insert Command` 插入命令，并在命令结尾加上 `tt`（无需注意大小写）![[Pasted image 20231114212536.png]]
+	4. 插入瞬态分析命令![[Pasted image 20231114212828.png]]![[Pasted image 20231114212844.png]]
+16. 进行仿真
+	1. 
