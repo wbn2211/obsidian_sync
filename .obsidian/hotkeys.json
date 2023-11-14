@@ -25,11 +25,22 @@
       "key": "B"
     }
   ],
+  "obsidian-git:commit": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
+    }
+  ],
   "obsidian-git:pull": [
     {
       "modifiers": [
         "Alt",
-        "Mod"
+        "Mod",
+        "Shift"
       ],
       "key": "P"
     }
@@ -38,7 +49,8 @@
     {
       "modifiers": [
         "Alt",
-        "Mod"
+        "Mod",
+        "Shift"
       ],
       "key": "U"
     }
