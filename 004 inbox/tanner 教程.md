@@ -87,4 +87,4 @@
 | Metal 2 | Via   |
 | ------- | ----- |
 | 4 * 4   | 2 * 2 | 
-10. 右键 Cell 区域 *New* 新建单元，并命名 `inv`
+10. 右键 Cell 区域 *New* 新建单元，并命名 `inv`，点击 Cell > Instance 引入 `PMOS` 和 `NMOS`,通过 Draw![[Pasted image 20231115000517.png
