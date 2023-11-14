@@ -21,4 +21,7 @@
 9. 绘制结束后**保存**，通过 `View > Cell View > View Schematic` 返回原理图界面![[Pasted image 20231114205958.png]]
 ### 仿真部分
 10. 放置电压源![[Pasted image 20231114210326.png]]![[Pasted image 20231114210410.png]]![[Pasted image 20231114210434.png]]
-11. 
+11. 放置`Print Voltage` ![[Pasted image 20231114210618.png]]
+12. 单击`Check` 并进行**保存**
+13. 在 `File > Export > Export SPICE` 导出 `.spc` 网表文件 ![[Pasted image 20231114210816.png]]
+14. 

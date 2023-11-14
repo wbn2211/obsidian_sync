@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004 inbox/Tanner 教程.md"
+                "file": "003 笔记/半导体工艺原理/第一章 半导体衬底.md"
               }
             }
           }
@@ -120,8 +120,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004 inbox/Tanner 教程.md",
+                "file": "003 笔记/半导体工艺原理/第一章 半导体衬底.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,8 +229,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c66a641d3073d25e",
+  "active": "642246cd6ecddafc",
   "lastOpenFiles": [
+    "003 笔记/半导体工艺原理/半导体工艺原理.md",
+    "003 笔记/半导体工艺原理/第一章 半导体衬底.md",
+    "004 inbox/Tanner 教程.md",
+    "-001 图片库/Pasted image 20231114210816.png",
+    "-001 图片库/Pasted image 20231114210618.png",
     "-001 图片库/Pasted image 20231114210434.png",
     "-001 图片库/Pasted image 20231114210410.png",
     "-001 图片库/Pasted image 20231114210326.png",
@@ -240,18 +244,12 @@
     "-001 图片库/Pasted image 20231114205455.png",
     "-001 图片库/Pasted image 20231114205259.png",
     "-001 图片库/Pasted image 20231114205218.png",
-    "-001 图片库/Pasted image 20231114205207.png",
-    "-001 图片库/Pasted image 20231114205100.png",
-    "-001 图片库/Pasted image 20231114204936.png",
     "004 inbox/第二章 扩散.md",
-    "004 inbox/Tanner 教程.md",
-    "003 笔记/半导体工艺原理/第一章 半导体衬底.md",
     "001 书架/读书笔记/关于正确处理人民内部矛盾的问题.md",
     "004 inbox/在 Ubuntu 上搭建使用 Jellyfin 的影视库.md",
     "004 inbox/第一章 拉格朗日方程和哈密顿方程.md",
     "not_sync",
     "004 inbox/了解 IoT 解决方案的组件.md",
-    "003 笔记/半导体工艺原理/半导体工艺原理.md",
     "004 inbox/mems 课程考试重点.md",
     "003 笔记/互联网+/互联网+ 深紫外光线鉴别白酒真伪.md",
     "未命名.canvas",
