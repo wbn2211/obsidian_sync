@@ -48,7 +48,13 @@
 2. 右键 Cell 区域 *New* 新建单元，并命名 `PMOS` ![[Pasted image 20231114230933.png]]
 3. 按照表格绘制
 	1. 绘制 *N Well* ![[Pasted image 20231114233005.png]]
-		1. 首先选中
+		1. 首先选中 *N Well* 
+		2. 选择 *Box* 绘制
+		3. 画个框
+		4. 点击 *Edit Project(s)* 修改属性![[Pasted image 20231114233253.png]]
+	2. 绘制 *Active* ![[Pasted image 20231114233432.png]]
+	3. 绘制 *P Select* ![[Pasted image 20231114233508.png]]
+	4. 绘制 *Poly* 
 | N Well  | Active | P Select | Poly  | Active Contact | Metal 1 |
 | ------- | ------ | -------- | ----- | -------------- | ------- |
 | 24 * 15 | 14 * 5 | 18 * 9   | 2 * 9 | 2 * 2          | 4 * 4   |
