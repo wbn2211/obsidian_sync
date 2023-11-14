@@ -47,7 +47,8 @@
 ***PS6*** 下方 TDB 在安装 Tanner 软件时会同步安装 Tanner Tools v16.3 ，我们需要的是其中 `Tanner Tools v16.3\Designs\Lights` 路径下的 **lights.tdb** 文件
 2. 右键 Cell 区域 *New* 新建单元，并命名 `PMOS` ![[Pasted image 20231114230933.png]]
 3. 按照表格绘制
-	1. 绘制 *N Well* 
+	1. 绘制 *N Well* ![[Pasted image 20231114233005.png]]
+		1. 首先选中
 | N Well  | Active | P Select | Poly  | Active Contact | Metal 1 |
 | ------- | ------ | -------- | ----- | -------------- | ------- |
 | 24 * 15 | 14 * 5 | 18 * 9   | 2 * 9 | 2 * 2          | 4 * 4   |
