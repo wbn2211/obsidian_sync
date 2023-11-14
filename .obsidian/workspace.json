@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003 笔记/半导体工艺原理/第一章 半导体衬底.md"
+                "file": "001 书架/读书笔记/关于正确处理人民内部矛盾的问题.md"
               }
             }
           }
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003 笔记/半导体工艺原理/第一章 半导体衬底.md",
+                "file": "001 书架/读书笔记/关于正确处理人民内部矛盾的问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,14 +187,6 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
-            }
-          },
-          {
-            "id": "721a8417fed0c029",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
             }
           },
           {
@@ -209,11 +201,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 237.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,12 +221,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "86df45c95f26f4a0",
+  "active": "ab5363217d4c431f",
   "lastOpenFiles": [
+    "003 笔记/半导体工艺原理/第一章 半导体衬底.md",
     "004 inbox/在 Ubuntu 上搭建使用 Jellyfin 的影视库.md",
     "not_sync",
     "004 inbox/了解 IoT 解决方案的组件.md",
-    "003 笔记/半导体工艺原理/第一章 半导体衬底.md",
     "003 笔记/半导体工艺原理/半导体工艺原理.md",
     "004 inbox/第二章 扩散.md",
     "004 inbox/mems 课程考试重点.md",
