@@ -1,5 +1,6 @@
 # Tanner 软件的使用教程——以反相器电路为例
 ## 一、 使用 S-Edit 绘制原理图
+### 原理图绘制部分
 1. 打开 S-Edit 单击 `New Design` 新建一个项目![[Pasted image 20231114171725.png]]
 2. 自定义项目名称和存储地点![[Pasted image 20231114171808.png]]
 3. 添加存储库![[Pasted image 20231114171934.png]]
@@ -17,4 +18,7 @@
 7. 点击 `Cell > Generate Symbols` 生成反相器的符号![[Pasted image 20231114204705.png]]![[Pasted image 20231114204936.png]]
 8. 进入符号绘制界面，使用 `Path` 绘制标准的反相器符号![[Pasted image 20231114205100.png]]![[Pasted image 20231114205207.png]]![[Pasted image 20231114205218.png]]
 ***PS5*** 绘制反相器符号时，使用 `Path` 和线条角度变换绘制符号，也可以在 `Properties` 中编辑选中部分属性![[Pasted image 20231114205455.png]]![[Pasted image 20231114205718.png]]
-9. 绘制结束后**保存**，通过 `View > Cell View > View Sch` ![[Pasted image 20231114205958.png]]
+9. 绘制结束后**保存**，通过 `View > Cell View > View Schematic` 返回原理图界面![[Pasted image 20231114205958.png]]
+### 仿真部分
+10. 放置电压源![[Pasted image 20231114210326.png]]![[Pasted image 20231114210410.png]]![[Pasted image 20231114210434.png]]
+11. 
