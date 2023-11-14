@@ -32,4 +32,5 @@
 	3. 单击 `Insert Command` 插入命令，并在命令结尾加上 `tt`（无需注意大小写）![[Pasted image 20231114212536.png]]
 	4. 插入瞬态分析命令![[Pasted image 20231114212828.png]]![[Pasted image 20231114212844.png]]
 16. 点击 `Run Simulation` 进行仿真![[Pasted image 20231114213314.png]]
-## 三、
+## 三、使用W-Edit 进行数据观察
+17. 
