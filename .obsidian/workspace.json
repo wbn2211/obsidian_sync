@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004 inbox/tenner 教程.md"
+                "file": "004 inbox/tanner 教程.md"
               }
             }
           }
@@ -42,9 +42,39 @@
             "id": "5201275f5a131d33",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "-001 图片库/Pasted image 20231114171725.png"
+              }
+            }
+          },
+          {
+            "id": "bc17de7749d9f677",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "-001 图片库/Pasted image 20231114171808.png"
+              }
+            }
+          },
+          {
+            "id": "90555fd62545ec07",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "-001 图片库/Pasted image 20231114171808.png"
+              }
+            }
+          },
+          {
+            "id": "c66a641d3073d25e",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "004 inbox/tenner 教程.md",
+                "file": "004 inbox/tanner 教程.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +121,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -157,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004 inbox/tenner 教程.md",
+                "file": "004 inbox/tanner 教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,10 +230,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5201275f5a131d33",
+  "active": "c66a641d3073d25e",
   "lastOpenFiles": [
+    "-001 图片库/Pasted image 20231114171934.png",
+    "-001 图片库/Pasted image 20231114171808.png",
+    "-001 图片库/Pasted image 20231114171725.png",
+    "004 inbox/tanner 教程.md",
     "003 笔记/半导体工艺原理/第一章 半导体衬底.md",
-    "004 inbox/tenner 教程.md",
     "001 书架/读书笔记/关于正确处理人民内部矛盾的问题.md",
     "004 inbox/在 Ubuntu 上搭建使用 Jellyfin 的影视库.md",
     "004 inbox/第二章 扩散.md",
@@ -230,7 +263,6 @@
     "001 书架/我的书架.md",
     "11.6 高斯公式.md",
     "002 游戏/prepar3d/航空气象学/大气的状态及其运动.md",
-    "002 游戏/csgo/键位绑定.md",
     "001 书架/bookfromdouban.js",
     "001 书架/新建 Text Document.txt",
     "001 书架/moviefromdouban.js",
