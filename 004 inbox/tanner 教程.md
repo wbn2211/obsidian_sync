@@ -54,7 +54,11 @@
 		4. 点击 *Edit Project(s)* 修改属性![[Pasted image 20231114233253.png]]
 	2. 绘制 *Active* ![[Pasted image 20231114233432.png]]
 	3. 绘制 *P Select* ![[Pasted image 20231114233508.png]]
-	4. 绘制 *Poly* 
+	4. 绘制 *Poly* ![[Pasted image 20231114233541.png]]
+	5. 绘制 *Active Contact* ![[Pasted image 20231114233637.png]]![[Pasted image 20231114233616.png]]
+	6. 绘制 *Metal 1* ![[Pasted image 20231114233706.png]]![[Pasted image 20231114233718.png]]
+
 | N Well  | Active | P Select | Poly  | Active Contact | Metal 1 |
 | ------- | ------ | -------- | ----- | -------------- | ------- |
 | 24 * 15 | 14 * 5 | 18 * 9   | 2 * 9 | 2 * 2          | 4 * 4   |
+4. 点击 *tool > DRC* 进行 DRC 检查，在中间下部 ![[Pasted image 20231114233948.png]]
