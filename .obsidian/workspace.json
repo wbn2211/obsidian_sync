@@ -6,7 +6,7 @@
       {
         "id": "8329133ef0e802c8",
         "type": "tabs",
-        "dimension": 18.96005072923272,
+        "dimension": 18.03118908382066,
         "children": [
           {
             "id": "6deada62165bc439",
@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001 书架/读书笔记/关于正确处理人民内部矛盾的问题.md"
+                "file": "003 笔记/半导体工艺原理/第一章 半导体衬底.md"
               }
             }
           }
@@ -23,21 +23,8 @@
       {
         "id": "7a259fedec5c4591",
         "type": "tabs",
-        "dimension": 81.03994927076728,
+        "dimension": 81.96881091617934,
         "children": [
-          {
-            "id": "01491fa02cb047ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "001 书架/读书笔记/关于正确处理人民内部矛盾的问题.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
           {
             "id": "642246cd6ecddafc",
             "type": "leaf",
@@ -89,22 +76,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4ae0bac1c2e15a4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "004 inbox/第一章 拉格朗日方程和哈密顿方程.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,21 +106,13 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#白酒",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "63d709c50b0bccf7",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
             }
           },
           {
@@ -178,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001 书架/读书笔记/关于正确处理人民内部矛盾的问题.md",
+                "file": "003 笔记/半导体工艺原理/第一章 半导体衬底.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,14 +186,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ab5363217d4c431f",
+  "active": "642246cd6ecddafc",
   "lastOpenFiles": [
-    "003 笔记/半导体工艺原理/第一章 半导体衬底.md",
+    "001 书架/读书笔记/关于正确处理人民内部矛盾的问题.md",
     "004 inbox/在 Ubuntu 上搭建使用 Jellyfin 的影视库.md",
+    "004 inbox/第二章 扩散.md",
+    "004 inbox/第一章 拉格朗日方程和哈密顿方程.md",
+    "003 笔记/半导体工艺原理/第一章 半导体衬底.md",
     "not_sync",
     "004 inbox/了解 IoT 解决方案的组件.md",
     "003 笔记/半导体工艺原理/半导体工艺原理.md",
-    "004 inbox/第二章 扩散.md",
     "004 inbox/mems 课程考试重点.md",
     "003 笔记/互联网+/互联网+ 深紫外光线鉴别白酒真伪.md",
     "未命名.canvas",
@@ -236,8 +203,6 @@
     "003 笔记/电路原理/第五章 正弦交流电路的稳态分析.md",
     "003 笔记/电路原理/第一章 电路基本概念.md",
     "003 笔记/半导体工艺原理",
-    "004 inbox/第一章 拉格朗日方程和哈密顿方程.md",
-    "001 书架/读书笔记/关于正确处理人民内部矛盾的问题.md",
     "000 模板合集/读书笔记模板.md",
     "003 笔记/Linux/3.1 搭建使用 Jellyfin 的影视库.md",
     "003 笔记/Linux/2.1 Docker 的安装以及使用 Portainter 进行容器的部署和管理.md",
