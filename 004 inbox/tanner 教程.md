@@ -88,4 +88,5 @@
 | ------- | ----- |
 | 4 * 4   | 2 * 2 | 
 10. 右键 Cell 区域 *New* 新建单元，并命名 `inv`，点击 Cell > Instance 引入 `PMOS` 和 `NMOS`,通过 *Draw > Align >* 进行对齐![[Pasted image 20231115000517.png]]![[Pasted image 20231115000810.png]]
-11. 引入 `Basecontact_N` 和 `Basecontact_P` 单元
+11. 引入 `Basecontact_N` 和 `Basecontact_P` 单元，用 Poly 将栅极连接![[Pasted image 20231115001118.png]]
+12. 引入 `Port_A` 作为输入端口
