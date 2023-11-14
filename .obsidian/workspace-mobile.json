@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "999516db32752f22",
+    "type": "split",
+    "children": [
+      {
+        "id": "8329133ef0e802c8",
+        "type": "tabs",
+        "dimension": 15.933609958506223,
+        "children": [
+          {
+            "id": "6deada62165bc439",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "004 inbox/第一章 极限与连续.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7a259fedec5c4591",
+        "type": "tabs",
+        "dimension": 84.06639004149378,
+        "children": [
+          {
+            "id": "e33104491f3e5858",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "004 inbox/第一章 极限与连续.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4498f20e18312ddb",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8c5a20a95e8f8075",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b9e1146efceb5682",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f3d97bfcbc29a354",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "8add58ee17ab4d77",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "48368e5fb9272e8e",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "87b23be69d296af2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "66d35fd5c4203301",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "004 inbox/第一章 极限与连续.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "zk-prefixer:创建时间戳笔记": false
+    }
+  },
+  "active": "e33104491f3e5858",
+  "lastOpenFiles": [
+    "004 inbox/第一章 极限与连续.md",
+    "004 inbox/未命名.md",
+    "001 书架/读书笔记/关于正确处理人民内部矛盾的问题.md",
+    "004 inbox/0 系统安装.md",
+    "004 inbox/第一章 拉格朗日方程和哈密顿方程.md",
+    "004 inbox/在 Ubuntu 上搭建使用 Jellyfin 的影视库.md",
+    "004 inbox/了解 IoT 解决方案的组件.md",
+    "003 笔记/markdown.md",
+    "001 书架/我的书架.md",
+    "第一章 拉格朗日方程和哈密顿方程",
+    "第一章 拉格朗日方程和哈密顿方程.md",
+    "001 书架/读书笔记/三体.md",
+    "003 笔记/计算机二级/1.1 程序设计的基本概念.md.2023-05-02_01.07.43.foldersync.old",
+    "002 游戏/csgo/键位绑定.md",
+    "002 游戏/csgo/键位绑定.md.2023-05-02_01.07.43.foldersync.old",
+    "002 游戏/csgo/跑图参数.md.2023-05-02_01.07.43.foldersync.old",
+    "002 游戏/csgo/视角参数.md.2023-05-02_01.07.42.foldersync.old",
+    "002 游戏/csgo/奇葩准心.md.2023-05-02_01.07.42.foldersync.old",
+    "002 游戏/csgo/单挑设置.md.2023-05-02_01.07.41.foldersync.old",
+    "002 游戏/csgo/准星参数.md.2023-05-02_01.07.41.foldersync.old",
+    "002 游戏/csgo/kz+bhop参数.md.2023-05-02_01.07.41.foldersync.old",
+    "001 书架/读书笔记/三体.md.2023-05-02_01.07.40.foldersync.old",
+    "11.6 高斯公式.md",
+    "inbox/0 系统安装.md",
+    "004 inbox/第八章 多元函数微分法及其应用.md",
+    "004 inbox/复变函数与积分变换.md",
+    "004 inbox/3.2 部署 qbittorrent 下载资源.md",
+    "003 笔记/实验室/寒假学习/时钟/时钟.md",
+    "003 笔记/实验室/寒假学习/串口/野火- RS232标准.md",
+    "003 笔记/实验室/寒假学习/串口/26讲  STM32串口寄存器库函数配置方法.md",
+    "003 笔记/实验室/寒假学习/串口/25讲 串行通信基本原理.md",
+    "003 笔记/高数/第十二章 级数/12.2 常数项级数的审敛法.md",
+    "003 笔记/高数/第十二章 级数/12.1 常数项级数的概念和性质.md",
+    "003 笔记/高数/第十一章 曲线积分与曲面积分/11.7 斯托克斯公式.md",
+    "003 笔记/高数/第十一章 曲线积分与曲面积分/11.5 对坐标的曲面积分.md",
+    "003 笔记/高数/第十一章 曲线积分与曲面积分/11.4 对面积的曲面积分.md",
+    "-001 图片库/v2-d5e3ee1ac10fca6e52a36f0965d973da_720w.jpg",
+    "-001 图片库/v2-35d516d0e656d043c06c44453e0e08ac_720w.jpg",
+    "-001 图片库/Pasted image 20230427175129.png",
+    "-001 图片库/Pasted image 20230130153458.png",
+    "-001 图片库/Pasted image 20230130145628.png",
+    "-001 图片库/Pasted image 20230130145326.png",
+    "-001 图片库/Pasted image 20230130144929.png",
+    "-001 图片库/Pasted image 20230130144310.png",
+    "-001 图片库/Pasted image 20230130143445.png",
+    "-001 图片库/Pasted image 20230130121558.png",
+    "未命名.canvas"
+  ]
+}

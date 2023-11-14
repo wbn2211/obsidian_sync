@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"3657208b776738c5","x":-126,"y":120,"width":166,"height":50,"type":"text","text":"keyboard"},
+		{"id":"6803be23cfc31856","x":400,"y":26,"width":140,"height":50,"type":"text","text":"连接部分"},
+		{"id":"f621111e6e6040c3","x":76,"y":51,"width":144,"height":50,"type":"text","text":"硬件选型"},
+		{"id":"86c3d2107ee94757","x":76,"y":170,"width":144,"height":50,"type":"text","text":"软件编写"}
+	],
+	"edges":[
+		{"id":"1a85b52eaf6650e0","fromNode":"3657208b776738c5","fromSide":"right","toNode":"f621111e6e6040c3","toSide":"left"},
+		{"id":"27d27f219ac6ecea","fromNode":"3657208b776738c5","fromSide":"right","toNode":"86c3d2107ee94757","toSide":"left"}
+	]
+}

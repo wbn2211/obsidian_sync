@@ -1,0 +1,117 @@
+{
+  "main": {
+    "id": "999516db32752f22",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebd1a35d875237f6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "inbox/4.1 刚体的转动.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c665b306ee4c69d0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "596abb8414d30eff",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "9da243dd1c3f757b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "c46c7ff1dcaa56e9",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "47d10ef1d39d358f",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "bb03250e0d01d835",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "477296298ac02dfa",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "inbox/4.1 刚体的转动.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1b6d803f97b5675d",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "inbox/4.1 刚体的转动.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "ebd1a35d875237f6",
+  "lastOpenFiles": [
+    "inbox/4.1 刚体的转动.md",
+    "笔记/高数/第十一章 曲线积分与曲面积分/11.5 对坐标的曲面积分.md",
+    "inbox/11.6 高斯公式.md",
+    "笔记/电路原理/第一章 电路基本概念.md",
+    "笔记/高数/第十一章 曲线积分与曲面积分/11.4 对面积的曲面积分.md",
+    "图片库/Pasted image 20220523141352.png",
+    "笔记/高数/第十一章 曲线积分与曲面积分/11.3 格林公式及应用.md",
+    "笔记/C++/c++.md",
+    "笔记/markdown.md",
+    "笔记/高数/第十一章 曲线积分与曲面积分/11.2 对坐标的曲线积分.md"
+  ]
+}

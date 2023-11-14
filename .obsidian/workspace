@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "999516db32752f22",
+    "type": "split",
+    "children": [
+      {
+        "id": "8329133ef0e802c8",
+        "type": "tabs",
+        "dimension": 15.916296766011415,
+        "children": [
+          {
+            "id": "6deada62165bc439",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "inbox/复变函数与积分变换.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7a259fedec5c4591",
+        "type": "tabs",
+        "dimension": 84.08370323398859,
+        "children": [
+          {
+            "id": "f5b8bf3b512fac5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/3.2 部署 qbittorrent 下载资源.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a33c8e19e47dd751",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "笔记/Linux/1.1 对 Linux 的初次设置相关.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27c522267791799f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "笔记/Linux/2.1 Docker 的安装以及使用 Portainter 进行容器的部署和管理.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af488c9bbcfc62e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/复变函数与积分变换.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3605bf2b4e8e0c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a9378f800457000",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23ecf0768fa83314",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3cf219bf6aea9d2f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#学习",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "63d709c50b0bccf7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 227
+  },
+  "right": {
+    "id": "685bc1eae2af133c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5997e94ce5727be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbde0ab7ee7a5b57",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "inbox/复变函数与积分变换.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "721a8417fed0c029",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ab5363217d4c431f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "active": "af488c9bbcfc62e7",
+  "lastOpenFiles": [
+    "inbox/复变函数与积分变换.md",
+    "inbox/第八章 多元函数微分法及其应用.md",
+    "游戏/csgo/跑图参数.md",
+    "inbox/了解 IoT 解决方案的组件.md",
+    "笔记/物联网/了解IoT解决方案的体系结构.md",
+    "笔记/计算机二级/1.1 程序设计的基本概念.md",
+    "inbox/第一章 极限与连续.md",
+    "笔记/未命名未命名.md",
+    "inbox/了解数据流和处理.md",
+    "笔记/windows编程/windows 窗口.md"
+  ]
+}

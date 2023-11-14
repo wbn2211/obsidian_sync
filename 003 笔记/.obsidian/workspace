@@ -1,0 +1,119 @@
+{
+  "main": {
+    "id": "3c6024ac5ba2d56f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a064152933f205d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "英语/单词汇总.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "14d0c51bc78f18cd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "英语/单词汇总.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f63399cff8467b96",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3da2cead6a73857",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d51e44ef258818eb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f318c9f9f2a0ec9d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e67e694dd3d92555",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1f8f90d07c0d59d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7346cf38ce38048f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "英语/单词汇总.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0eaa56c4be3cfb94",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "英语/单词汇总.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1a064152933f205d",
+  "lastOpenFiles": [
+    "英语/单词汇总.md",
+    "高数/积分表.md",
+    "未命名 1.md",
+    "未命名.md"
+  ]
+}

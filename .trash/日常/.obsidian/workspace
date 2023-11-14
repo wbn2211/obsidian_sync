@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "aa14cbe30a037f98",
+    "type": "split",
+    "children": [
+      {
+        "id": "60e5f17a1cbcdb92",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "模板/日记模板.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "31b4dbd2f1a1184c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "模板/日记模板.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a7e08843d5c0856",
+    "type": "split",
+    "children": [
+      {
+        "id": "54ac9ac35543e983",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab16f1f2fa4f795b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9c1f82b30b10000d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4a674a4cd5f19c79",
+    "type": "split",
+    "children": [
+      {
+        "id": "31989df7fa8fb810",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5294ffe0a2a8a1c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "模板/日记模板.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5c2729ef53aa9d64",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "60e5f17a1cbcdb92",
+  "lastOpenFiles": [
+    "模板/日记模板.md",
+    "2021-12-27.md"
+  ]
+}

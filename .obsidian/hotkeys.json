@@ -1,0 +1,46 @@
+{
+  "editor:toggle-highlight": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "J"
+    }
+  ],
+  "quickadd:choice:6e8f877b-275c-4d2d-ae93-841a5014523e": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "B"
+    }
+  ],
+  "quickadd:choice:ad3662db-5efe-47f2-a8fb-3daef26c8f48": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "B"
+    }
+  ],
+  "obsidian-git:pull": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ],
+  "obsidian-git:push2": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "U"
+    }
+  ]
+}

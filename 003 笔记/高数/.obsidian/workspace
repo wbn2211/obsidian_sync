@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "b45a403ea68da330",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e8bcffc95a92569",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "积分表.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ed3181463e3ca6d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "01389b971b66d590",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cb66dde99127981",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "48ae863abf6303c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7bde61753848442d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7141b963a9d0900",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73016f36b01647b7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "积分表.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5e8bcffc95a92569",
+  "lastOpenFiles": [
+    "积分表.md"
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "79555accc57068b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "459e27cfc8ee58d4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "准星参数.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6de375801bb541c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "11fba13332aa56af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6168d16dad1cb99a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "342961c319254fdc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "030fa859bb27a02b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2bd6aada420f9cd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "61a644824748dcc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7078f34c0ccbdfcc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "准星参数.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "67fd4dbeaa00d64b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9f4ea10a77ccc027",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4f0efb3ae7514cf2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "459e27cfc8ee58d4",
+  "lastOpenFiles": [
+    "准星参数.md",
+    "键位绑定.md",
+    "跑图参数.md",
+    "目录.md"
+  ]
+}

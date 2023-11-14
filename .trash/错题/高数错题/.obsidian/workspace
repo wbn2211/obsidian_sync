@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "15be003363519345",
+    "type": "split",
+    "children": [
+      {
+        "id": "896d39b46a59a15c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "不定积分.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "b8a627888850e139",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "不定积分.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ccd02e3669d31c19",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c4145979a8101cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eed16954e6ab93b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ad81108c2f43e03c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6ed8f7b8785a224f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "697cfe31ac616642",
+    "type": "split",
+    "children": [
+      {
+        "id": "c34b27d22760b0d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b217b19fb5b41d87",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "不定积分.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "fd24a0d761edaef1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2225705e411d0e6b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "不定积分.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f73a10064e9bc89a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "不定积分.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "896d39b46a59a15c",
+  "lastOpenFiles": [
+    "不定积分.md",
+    "目录.md",
+    "202112252303.md",
+    "[[1.1不定积分的概念与性质]].md",
+    "Recording 20211222171519.webm",
+    "未命名 1.md",
+    "Pasted image 20211222125131.png"
+  ]
+}
