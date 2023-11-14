@@ -5,4 +5,8 @@
 ![[Pasted image 20231114171808.png]]
 3. 添加存储库
 ![[Pasted image 20231114171934.png]]
-其中存储库的链接在打包下载的文件中，在路径`~\Libraries\Libraries\All` 下寻找文件 `All.tanner` 添加进
+其中存储库的链接在打包下载的文件中，在路径`~\Libraries\Libraries\All` 下寻找文件 `All.tanner` 添加库
+4. 确认全部库添加到项目中，点击 `Cell > New View` 新建原理图绘制
+![[Pasted image 20231114172307.png]]
+![[Pasted image 20231114172549.png]]
+**PS** S-Edit 软件的放大为**直接滚动鼠标滚轮**，向上fa
