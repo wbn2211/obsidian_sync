@@ -61,4 +61,9 @@
 | N Well  | Active | P Select | Poly  | Active Contact | Metal 1 |
 | ------- | ------ | -------- | ----- | -------------- | ------- |
 | 24 * 15 | 14 * 5 | 18 * 9   | 2 * 9 | 2 * 2          | 4 * 4   |
-4. 点击 *tool > DRC* 进行 DRC 检查，在中间下部 ![[Pasted image 20231114233948.png]]
+4. 点击 *tool > DRC* 进行 DRC 检查，在中间下部 *Verification Navigator* 显示 `0 errors` 为正确，否则根据相关提示进行改正![[Pasted image 20231114233948.png]]
+5. 右键 Cell 区域 *New* 新建单元，并命名 `NMOS` ，根据表格绘制
+
+| N Well | Active | P Select | Poly  | Active Contact | Metal 1 |
+| ------ | ------ | -------- | ----- | -------------- | ------- |
+| 14 * 5 | 18 * 9 | 2 * 9    | 2 * 9 | 2 * 2          | 4 * 4   |
