@@ -31,5 +31,5 @@
 	2. 在`Files > Library file` 中输入库绝对路径，该库可以在`~\2023-2024-1EDA参考资料和软件\tanner\Libraries\Libraries\Libraries\Models\` 找到 ![[Pasted image 20231114212032.png]]
 	3. 单击 `Insert Command` 插入命令，并在命令结尾加上 `tt`（无需注意大小写）![[Pasted image 20231114212536.png]]
 	4. 插入瞬态分析命令![[Pasted image 20231114212828.png]]![[Pasted image 20231114212844.png]]
-16. 进行仿真
-	1. 
+16. 点击 `Run Simulation` 进行仿真![[Pasted image 20231114213314.png]]
+## 三、
