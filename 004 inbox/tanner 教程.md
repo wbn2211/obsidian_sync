@@ -25,4 +25,6 @@
 12. 单击`Check` 并进行**保存**
 13. 在 `File > Export > Export SPICE` 导出 `.spc` 网表文件 ![[Pasted image 20231114210816.png]]
 14. 使用 T-Spice 打开 `.spc` 文件![[Pasted image 20231114211420.png]]
-15. 
+15. 修改 `spc` 文件
+	1. 通过 `Edit > Insert Command` 更改![[Pasted image 20231114211819.png]]
+	2. 
