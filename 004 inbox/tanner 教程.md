@@ -36,4 +36,8 @@
 17. 点击图示图标使输入输出图像分离![[Pasted image 20231114223552.png]]
 18. 在`File > Export Chart Data` 中导出图形数据![[Pasted image 20231114223637.png]]
 #### 反相器的直流分析
-1. 重新进行 `步骤13` 进行
+1. 重新进行 `步骤13` 导出一个新的 `.spc` 文件
+2. 修改 `spc` 文件
+	1. 修改 `VVoltageSource_2` 的值，将 `Gnd` 后的删除并加入 lib 库![[Pasted image 20231114224310.png]]
+	2. 插入直流分析命令![[Pasted image 20231114224406.png]]![[Pasted image 20231114224437.png]]![[Pasted image 20231114224502.png]]
+	3. 插入
