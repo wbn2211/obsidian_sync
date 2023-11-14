@@ -43,4 +43,5 @@
 	3. 插入打印输出命令，注意与自己的端口一致![[Pasted image 20231114224734.png]]![[Pasted image 20231114224824.png]]
 	4. 点击 `Run Simulation` 进行仿真![[Pasted image 20231114225000.png]]
 ## 四、使用 L-Edit 进行版图设计
-1. 打开 L-Edit 软件，新建
+1. 打开 L-Edit 软件，点击 `New Design` 新建设计![[Pasted image 20231114230049.png]]
+***PS6*** 下方 `TDB` 在安装 Tanner 软件时会同步安装 
