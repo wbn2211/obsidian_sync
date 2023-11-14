@@ -27,14 +27,14 @@
 ## 二、使用 T-Spice 进行仿真
 14. 使用 T-Spice 打开 `.spc` 文件![[Pasted image 20231114211420.png]]
 15. 修改 `.spc` 文件
-	1. 通过 Edit > Insert Command 更改![[Pasted image 20231114211819.png]]
-	2. 在`Files > Library file` 中输入库绝对路径，该库可以在`~\2023-2024-1EDA参考资料和软件\tanner\Libraries\Libraries\Libraries\Models\` 找到 ![[Pasted image 20231114212032.png]]
+	1. 通过 *Edit > Insert Command* 更改![[Pasted image 20231114211819.png]]
+	2. 在 *Files > Library file* 中输入库绝对路径，该库可以在`~\2023-2024-1EDA参考资料和软件\tanner\Libraries\Libraries\Libraries\Models\` 找到 ![[Pasted image 20231114212032.png]]
 	3. 单击 *Insert Command* 插入命令，并在命令结尾加上 `tt`（无需注意大小写）![[Pasted image 20231114212536.png]]
 	4. 插入瞬态分析命令![[Pasted image 20231114212828.png]]![[Pasted image 20231114212844.png]]
 16. 点击 *Run Simulation* 进行仿真![[Pasted image 20231114213314.png]]
 ## 三、使用W-Edit 进行数据观察
 17. 点击图示图标使输入输出图像分离![[Pasted image 20231114223552.png]]
-18. 在 `File > Export Chart Data` 中导出图形数据![[Pasted image 20231114223637.png]]
+18. 在 *File > Export Chart Data* 中导出图形数据![[Pasted image 20231114223637.png]]
 #### 反相器的直流分析
 1. 重新进行 *步骤13* 导出一个新的 `.spc` 文件
 2. 修改 `.spc` 文件
@@ -45,4 +45,6 @@
 ## 四、使用 L-Edit 进行版图设计
 1. 打开 L-Edit 软件，点击 *New Design* 新建设计![[Pasted image 20231114230049.png]]
 ***PS6*** 下方 TDB 在安装 Tanner 软件时会同步安装 Tanner Tools v16.3 ，我们需要的是其中 `Tanner Tools v16.3\Designs\Lights` 路径下的 **lights.tdb** 文件
-2. 右键 Cell 区域![[Pasted image 20231114230933.png]]
+2. 右键 Cell 区域 *New* 新建单元，并命名 `PMOS` ![[Pasted image 20231114230933.png]]
+3. 按照表格绘制
+| N Well | Active | P Select | Poly | Active Contact |
