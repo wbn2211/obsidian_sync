@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004 inbox/在 Ubuntu 上搭建使用 Jellyfin 的影视库.md"
+                "file": "003 笔记/半导体工艺原理/第一章 半导体衬底.md"
               }
             }
           }
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004 inbox/在 Ubuntu 上搭建使用 Jellyfin 的影视库.md",
+                "file": "003 笔记/半导体工艺原理/第一章 半导体衬底.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,8 +229,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f166b17d03ce6367",
+  "active": "86df45c95f26f4a0",
   "lastOpenFiles": [
+    "004 inbox/在 Ubuntu 上搭建使用 Jellyfin 的影视库.md",
     "not_sync",
     "004 inbox/了解 IoT 解决方案的组件.md",
     "003 笔记/半导体工艺原理/第一章 半导体衬底.md",
@@ -246,7 +247,6 @@
     "004 inbox/第一章 拉格朗日方程和哈密顿方程.md",
     "001 书架/读书笔记/关于正确处理人民内部矛盾的问题.md",
     "000 模板合集/读书笔记模板.md",
-    "004 inbox/在 Ubuntu 上搭建使用 Jellyfin 的影视库.md",
     "003 笔记/Linux/3.1 搭建使用 Jellyfin 的影视库.md",
     "003 笔记/Linux/2.1 Docker 的安装以及使用 Portainter 进行容器的部署和管理.md",
     "002 游戏/csgo/kz+bhop参数.md",
