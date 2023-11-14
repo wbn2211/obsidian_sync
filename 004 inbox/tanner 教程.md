@@ -27,4 +27,6 @@
 14. 使用 T-Spice 打开 `.spc` 文件![[Pasted image 20231114211420.png]]
 15. 修改 `spc` 文件
 	1. 通过 `Edit > Insert Command` 更改![[Pasted image 20231114211819.png]]
-	2. 
+	2. 在`Files > Library file` 中输入库绝对路径，该库可以在`~\2023-2024-1EDA参考资料和软件\tanner\Libraries\Libraries\Libraries\Models\` 找到 ![[Pasted image 20231114212032.png]]
+	3. 单击 `Insert Command` 插入命令，并在命令结尾加上 `tt`（无需注意大小写）
+	4. 
