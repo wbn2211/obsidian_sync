@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-001 图片库/Pasted image 20231114210326.png"
+                "file": "-001 图片库/Pasted image 20231114211420.png"
               }
             }
           }
@@ -39,12 +39,12 @@
             }
           },
           {
-            "id": "caa6f8637a5dfcbe",
+            "id": "76808844a8ba148e",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "-001 图片库/Pasted image 20231114210326.png"
+                "file": "-001 图片库/Pasted image 20231114211420.png"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-001 图片库/Pasted image 20231114210326.png",
+                "file": "-001 图片库/Pasted image 20231114211420.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,9 +171,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "caa6f8637a5dfcbe",
+  "active": "76808844a8ba148e",
   "lastOpenFiles": [
     "004 inbox/Tanner 教程.md",
+    "-001 图片库/Pasted image 20231114210816.png",
+    "-001 图片库/Pasted image 20231114210618.png",
+    "-001 图片库/Pasted image 20231114210434.png",
+    "-001 图片库/Pasted image 20231114210410.png",
+    "-001 图片库/Pasted image 20231114210326.png",
     "-001 图片库/Pasted image 20231114205958.png",
     "003 笔记/Linux/2.1 Docker 的安装以及使用 Portainter 进行容器的部署和管理.md",
     "003 笔记/Linux/1.1 对 Linux 的初次设置相关.md",
@@ -184,11 +189,6 @@
     "-001 图片库/Pasted image 20231114205207.png",
     "-001 图片库/Pasted image 20231114205100.png",
     "-001 图片库/Pasted image 20231114204705.png",
-    "-001 图片库/Pasted image 20231114204452.png",
-    "-001 图片库/Pasted image 20231114204403.png",
-    "-001 图片库/Pasted image 20231114193807.png",
-    "-001 图片库/Pasted image 20231114195107.png",
-    "-001 图片库/Pasted image 20231114203703.png",
     "003 笔记/半导体工艺原理/半导体工艺原理目录.md",
     "003 笔记/半导体工艺原理/半导体工艺原理.md",
     "003 笔记/半导体工艺原理/第一章 半导体衬底.md",
