@@ -13,7 +13,7 @@
 	3. 连接完成![[Pasted image 20231114203703.png]]
 ***PS2*** 在连接原理图时要注意，元件与元件之间不可以通过简单的拼接实现电路的链接，而应该使用 *Wire* 进行连接
 ***PS3*** 如果找不到元件在哪一个库中可以通过下方的搜索框进行搜索，可以通过选中元件库进行库中搜索![[Pasted image 20231114203927.png]]
-***PS4*** 如果不小心关闭 S-Edit 可以通过如下的方式恢复自己的原理图绘制：如图选择 *File > Open > Open Design* 打开自己保存的文件![[Pasted image 20231114193807.png]]***PS5***如果打开保存的文件之后如图没有弹出编辑界面，可以通过右侧的 Libraries 中点击自己的库名，在下侧找到自己的文件右键 *Open View > schematic* 打开原理图![[Pasted image 20231114195107.png]]
+***PS4*** 如果不小心关闭 S-Edit 可以通过如下的方式恢复自己的原理图绘制：如图选择 *File > Open > Open Design* 打开自己保存的文件![[Pasted image 20231114193807.png]]***PS5*** 如果打开保存的文件之后如图没有弹出编辑界面，可以通过右侧的 Libraries 中点击自己的库名，在下侧找到自己的文件右键 *Open View > schematic* 打开原理图![[Pasted image 20231114195107.png]]
 6. 连接完成之后点击 *Check* 检查、保存![[Pasted image 20231114204403.png]]![[Pasted image 20231114204452.png]]
 7. 点击 *Cell > Generate Symbols* 生成反相器的符号![[Pasted image 20231114204705.png]]![[Pasted image 20231114204936.png]]
 8. 进入符号绘制界面，使用 *Path* 绘制标准的反相器符号![[Pasted image 20231114205100.png]]![[Pasted image 20231114205207.png]]![[Pasted image 20231114205218.png]]
