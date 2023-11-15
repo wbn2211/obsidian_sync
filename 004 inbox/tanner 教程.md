@@ -13,11 +13,11 @@
 	3. 连接完成![[Pasted image 20231114203703.png]]
 ***PS2*** 在连接原理图时要注意，元件与元件之间不可以通过简单的拼接实现电路的链接，而应该使用 *Wire* 进行连接
 ***PS3*** 如果找不到元件在哪一个库中可以通过下方的搜索框进行搜索，可以通过选中元件库进行库中搜索![[Pasted image 20231114203927.png]]
-***PS4*** 如果不小心关闭 S-Edit 可以通过如下的方式恢复自己的原理图绘制：如图选择 *File > Open > Open Design* 打开自己保存的文件![[Pasted image 20231114193807.png]]如果打开保存的文件之后如图没有弹出编辑界面，可以通过右侧的 Libraries 中点击自己的库名，在下侧找到自己的文件右键 *Open View > schematic* 打开原理图![[Pasted image 20231114195107.png]]
+***PS4*** 如果不小心关闭 S-Edit 可以通过如下的方式恢复自己的原理图绘制：如图选择 *File > Open > Open Design* 打开自己保存的文件![[Pasted image 20231114193807.png]]***PS5***如果打开保存的文件之后如图没有弹出编辑界面，可以通过右侧的 Libraries 中点击自己的库名，在下侧找到自己的文件右键 *Open View > schematic* 打开原理图![[Pasted image 20231114195107.png]]
 6. 连接完成之后点击 *Check* 检查、保存![[Pasted image 20231114204403.png]]![[Pasted image 20231114204452.png]]
 7. 点击 *Cell > Generate Symbols* 生成反相器的符号![[Pasted image 20231114204705.png]]![[Pasted image 20231114204936.png]]
 8. 进入符号绘制界面，使用 *Path* 绘制标准的反相器符号![[Pasted image 20231114205100.png]]![[Pasted image 20231114205207.png]]![[Pasted image 20231114205218.png]]
-***PS5*** 绘制反相器符号时，使用 *Path* 和线条角度变换绘制符号，也可以在 *Properties* 中编辑选中部分属性![[Pasted image 20231114205455.png]]![[Pasted image 20231114205718.png]]
+***PS6*** 绘制反相器符号时，使用 *Path* 和线条角度变换绘制符号，也可以在 *Properties* 中编辑选中部分属性![[Pasted image 20231114205455.png]]![[Pasted image 20231114205718.png]]
 9. 绘制结束后**保存**，通过 *View > Cell View > View Schematic* 返回原理图界面![[Pasted image 20231114205958.png]]
 ### 仿真部分
 10. 放置电压源![[Pasted image 20231114210326.png]]![[Pasted image 20231114210410.png]]![[Pasted image 20231114210434.png]]
@@ -44,7 +44,7 @@
 	4. 点击 *Run Simulation* 进行仿真![[Pasted image 20231114225000.png]]
 ## 四、使用 L-Edit 进行版图设计
 1. 打开 L-Edit 软件，点击 *New Design* 新建设计![[Pasted image 20231114230049.png]]
-***PS6*** 下方 TDB 在安装 Tanner 软件时会同步安装 Tanner Tools v16.3 ，我们需要的是其中 `Tanner Tools v16.3\Designs\Lights` 路径下的 **lights.tdb** 文件
+***PS7*** 下方 TDB 在安装 Tanner 软件时会同步安装 Tanner Tools v16.3 ，我们需要的是其中 `Tanner Tools v16.3\Designs\Lights` 路径下的 **lights.tdb** 文件
 2. 右键 Cell 区域 *New* 新建单元，并命名 `PMOS` ![[Pasted image 20231114230933.png]]
 3. 按照表格绘制
 	1. 绘制 *N Well* ![[Pasted image 20231114233005.png]]
@@ -87,7 +87,7 @@
 | Metal 2 | Via   |
 | ------- | ----- |
 | 4 * 4   | 2 * 2 | 
-***PS7*** 在新建单元时要注意，单元的命名中是不能含有中文和空格的，尽量使用英文进行命名
+***PS8*** 在新建单元时要注意，单元的命名中是不能含有中文和空格的，尽量使用英文进行命名
 10. 右键 Cell 区域 *New* 新建单元，并命名 `inv`，点击 Cell > Instance 引入 `PMOS` 和 `NMOS`,通过 *Draw > Align >* 进行对齐![[Pasted image 20231115000517.png]]![[Pasted image 20231115000810.png]]
 11. 引入 `Basecontact_N` 和 `Basecontact_P` 单元，用 Poly 将栅极连接![[Pasted image 20231115001118.png]]
 12. 引入 `Port_A` 作为输入端口，与 Poly 相接，并绘制 Metal 1 将漏极连接起来![[Pasted image 20231115143235.png]]
