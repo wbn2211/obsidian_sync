@@ -101,4 +101,4 @@
 	1. 在 L-Edit 软件中打开 *Tools > Extract Setup* 来设置导出文件![[Pasted image 20231115144929.png]]
 	2. 设置 Lights.ext 的路径，该文件位于 `Tanner Tools v16.3\Designs\Lights` ，该文件安装 Tanner 时已经安装， SPICE extract output file 可以自定义输出的文件路径和文件名 ![[Pasted image 20231115145332.png]]
 	3. 设置结束后点击 *Tools > Extract* 进行导出，如果报错请检查前一步的导出设置和版图的 DRC 检测是否通过![[Pasted image 20231115150035.png]]
-	4. 
+2. 
