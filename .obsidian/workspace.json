@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-001 图片库/Pasted image 20231114193807.png"
+                "file": "004 inbox/tanner 教程.md"
               }
             }
           }
@@ -37,49 +37,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c2cab5d65bffc6a1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "-001 图片库/Pasted image 20231114193807.png"
-              }
-            }
-          },
-          {
-            "id": "530f4a6a850d3a58",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "-001 图片库/Pasted image 20231114195107.png"
-              }
-            }
-          },
-          {
-            "id": "f6688859be8ef384",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "-001 图片库/Pasted image 20231114203703.png"
-              }
-            }
-          },
-          {
-            "id": "963b866b158b514f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "-001 图片库/Pasted image 20231114202944.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-001 图片库/Pasted image 20231114193807.png",
+                "file": "004 inbox/tanner 教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,8 +147,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c2cab5d65bffc6a1",
+  "active": "4179ee32e1294455",
   "lastOpenFiles": [
+    "-001 图片库/Pasted image 20231114193807.png",
     "004 inbox/tanner 教程.md",
     "-001 图片库/Pasted image 20231114195107.png",
     "-001 图片库/Pasted image 20231114203703.png",
