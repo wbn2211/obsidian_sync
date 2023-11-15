@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-001 图片库/Pasted image 20231114212032.png"
+                "file": "004 inbox/Tanner 教程.md"
               }
             }
           }
@@ -39,16 +39,6 @@
             }
           },
           {
-            "id": "26ebfd260f3e4c08",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "-001 图片库/Pasted image 20231114212032.png"
-              }
-            }
-          },
-          {
             "id": "2a1219c55256c2fc",
             "type": "leaf",
             "state": {
@@ -61,8 +51,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-001 图片库/Pasted image 20231114212032.png",
+                "file": "004 inbox/Tanner 教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,9 +160,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "26ebfd260f3e4c08",
+  "active": "4179ee32e1294455",
   "lastOpenFiles": [
+    "-001 图片库/Pasted image 20231114213314.png",
     "004 inbox/Tanner 教程.md",
+    "-001 图片库/Pasted image 20231114212828.png",
+    "-001 图片库/Pasted image 20231114212536.png",
+    "-001 图片库/Pasted image 20231114212032.png",
     "-001 图片库/Pasted image 20231114211819.png",
     "-001 图片库/Pasted image 20231114211420.png",
     "-001 图片库/Pasted image 20231114210816.png",
@@ -181,14 +174,11 @@
     "-001 图片库/Pasted image 20231114210434.png",
     "-001 图片库/Pasted image 20231114210410.png",
     "-001 图片库/Pasted image 20231114210326.png",
-    "-001 图片库/Pasted image 20231114205958.png",
     "003 笔记/Linux/2.1 Docker 的安装以及使用 Portainter 进行容器的部署和管理.md",
     "003 笔记/Linux/1.1 对 Linux 的初次设置相关.md",
     "003 笔记/Linux/3.1 搭建使用 Jellyfin 的影视库.md",
     "003 笔记/Linux/在 Ubuntu 上搭建使用 Jellyfin 的影视库.md",
     "004 inbox/在 Ubuntu 上搭建使用 Jellyfin 的影视库.md",
-    "-001 图片库/Pasted image 20231114205218.png",
-    "-001 图片库/Pasted image 20231114205207.png",
     "003 笔记/半导体工艺原理/半导体工艺原理目录.md",
     "003 笔记/半导体工艺原理/半导体工艺原理.md",
     "003 笔记/半导体工艺原理/第一章 半导体衬底.md",
