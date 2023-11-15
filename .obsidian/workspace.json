@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004 inbox/Tanner 教程.md"
+                "file": "-001 图片库/Pasted image 20231114205218.png"
               }
             }
           }
@@ -37,8 +37,49 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2a1219c55256c2fc",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "-001 图片库/Pasted image 20231114205218.png"
+              }
+            }
+          },
+          {
+            "id": "f6aa769f07ae4ed3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "-001 图片库/Pasted image 20231114205207.png"
+              }
+            }
+          },
+          {
+            "id": "aa23f5faf1da09e8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "-001 图片库/Pasted image 20231114205100.png"
+              }
+            }
+          },
+          {
+            "id": "528f8f4f6ef31a7f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "-001 图片库/Pasted image 20231114204705.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004 inbox/Tanner 教程.md",
+                "file": "-001 图片库/Pasted image 20231114205218.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,20 +188,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4179ee32e1294455",
+  "active": "2a1219c55256c2fc",
   "lastOpenFiles": [
-    "-001 图片库/Pasted image 20231114204452.png",
     "004 inbox/Tanner 教程.md",
+    "-001 图片库/Pasted image 20231114205207.png",
+    "-001 图片库/Pasted image 20231114205100.png",
+    "-001 图片库/Pasted image 20231114204705.png",
+    "-001 图片库/Pasted image 20231114204452.png",
     "-001 图片库/Pasted image 20231114204403.png",
     "-001 图片库/Pasted image 20231114193807.png",
     "-001 图片库/Pasted image 20231114195107.png",
     "-001 图片库/Pasted image 20231114203703.png",
     "-001 图片库/Pasted image 20231114202944.png",
     "-001 图片库/Pasted image 20231114203927.png",
-    "-001 图片库/Pasted image 20231114174730.png",
-    "-001 图片库/Pasted image 20231114172549.png",
-    "-001 图片库/Pasted image 20231114172307.png",
-    "-001 图片库/Pasted image 20231114171934.png",
     "003 笔记/半导体工艺原理/半导体工艺原理目录.md",
     "003 笔记/半导体工艺原理/半导体工艺原理.md",
     "003 笔记/半导体工艺原理/第一章 半导体衬底.md",
