@@ -93,4 +93,5 @@
 12. 引入 `Port_A` 作为输入端口，与 Poly 相接，并绘制 Metal 1 将漏极连接起来![[Pasted image 20231115143235.png]]
 13. 引入 `Out` 作为输出端口，放置在 Metal 1 上![[Pasted image 20231115143324.png]]
 14. 进行 *DRC* 检查，**保存**
-15. 使用 Metal 1 绘制电源线和地线，将 `Basecontact_P` 和 `PMOS` 的源极相连，`Basecontact_N` 和 `NMOS` 的源极相连
+15. 使用 Metal 1 绘制电源线和地线，将 `Basecontact_P` 和 `PMOS` 的源极相连，`Basecontact_N` 和 `NMOS` 的源极相连![[Pasted image 20231115143948.png]]
+16. 使用 *Box Port* 工具通过框选定义端口 `Vdd` 、 `Gnd` 、 `In` 、 `Out` ![[Pasted image 20231115144109.png]]
