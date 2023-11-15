@@ -34,7 +34,7 @@
 16. 点击 *Run Simulation* 进行仿真![[Pasted image 20231114213314.png]]
 ## 三、使用W-Edit 进行数据观察
 17. 点击图示图标使输入输出图像分离![[Pasted image 20231114223552.png]]
-18. 在 *File > Export Chart Data* 中导出图形数据![[Pasted image 20231114223637.png]]![[Pasted image 20231115215420.png]]
+18. 在 *File > Export Chart Data* 中导出图形数据![[Pasted image 20231114223637.png]]
 #### 反相器的直流分析
 1. 重新进行 *步骤13* 导出一个新的 `.spc` 文件
 2. 修改 `.spc` 文件
