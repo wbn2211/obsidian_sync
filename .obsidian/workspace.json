@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-001 图片库/Pasted image 20231114230049.png"
+                "file": "004 inbox/Tanner 教程.md"
               }
             }
           }
@@ -39,16 +39,6 @@
             }
           },
           {
-            "id": "d3fad492322a3925",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "-001 图片库/Pasted image 20231114230049.png"
-              }
-            }
-          },
-          {
             "id": "2a1219c55256c2fc",
             "type": "leaf",
             "state": {
@@ -61,8 +51,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-001 图片库/Pasted image 20231114230049.png",
+                "file": "004 inbox/Tanner 教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,8 +160,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d3fad492322a3925",
+  "active": "4179ee32e1294455",
   "lastOpenFiles": [
+    "-001 图片库/Pasted image 20231114230049.png",
     "004 inbox/Tanner 教程.md",
     "-001 图片库/Pasted image 20231114225000.png",
     "-001 图片库/Pasted image 20231114224824.png",
