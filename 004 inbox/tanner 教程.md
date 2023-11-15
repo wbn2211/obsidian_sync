@@ -99,4 +99,5 @@
 ## 五、使用 LVS 进行电路图与版图对比
 1. 提取版图的 `.spc` 文件
 	1. 在 L-Edit 软件中打开 *Tools > Extract Setup* 来设置导出文件![[Pasted image 20231115144929.png]]
-	2. 设置 Lights.ext 的路径，该文件位于 ![[Pasted image 20231115145332.png]]
+	2. 设置 Lights.ext 的路径，该文件位于 `Tanner Tools v16.3\Designs\Lights` ，该文件安装 Tanner 时已经安装， SPICE extract output file 可以自定义输出的文件路径和wen'jian'm ![[Pasted image 20231115145332.png]]
+	3. 
