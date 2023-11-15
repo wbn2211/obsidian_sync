@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004 inbox/Tanner 教程.md"
+                "file": "003 笔记/Linux/1.1 对 Linux 的初次设置相关.md"
               }
             }
           }
@@ -81,7 +81,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004 inbox/Tanner 教程.md",
+                "file": "003 笔记/Linux/1.1 对 Linux 的初次设置相关.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,15 +191,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4179ee32e1294455",
+  "active": "2a1219c55256c2fc",
   "lastOpenFiles": [
+    "004 inbox/Tanner 教程.md",
     "003 笔记/Linux/1.1 对 Linux 的初次设置相关.md",
     "003 笔记/Linux/2.1 Docker 的安装以及使用 Portainter 进行容器的部署和管理.md",
     "003 笔记/Linux/3.1 搭建使用 Jellyfin 的影视库.md",
     "003 笔记/Linux/在 Ubuntu 上搭建使用 Jellyfin 的影视库.md",
     "004 inbox/在 Ubuntu 上搭建使用 Jellyfin 的影视库.md",
     "-001 图片库/Pasted image 20231114205218.png",
-    "004 inbox/Tanner 教程.md",
     "-001 图片库/Pasted image 20231114205207.png",
     "-001 图片库/Pasted image 20231114205100.png",
     "-001 图片库/Pasted image 20231114204705.png",
