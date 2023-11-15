@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-001 图片库/Pasted image 20231114204403.png"
+                "file": "004 inbox/Tanner 教程.md"
               }
             }
           }
@@ -31,25 +31,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004 inbox/tanner 教程.md",
+                "file": "004 inbox/Tanner 教程.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "f5b6a395e404e443",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "-001 图片库/Pasted image 20231114204403.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-001 图片库/Pasted image 20231114204403.png",
+                "file": "004 inbox/Tanner 教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,9 +147,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f5b6a395e404e443",
+  "active": "4179ee32e1294455",
   "lastOpenFiles": [
-    "004 inbox/tanner 教程.md",
+    "-001 图片库/Pasted image 20231114204452.png",
+    "004 inbox/Tanner 教程.md",
+    "-001 图片库/Pasted image 20231114204403.png",
     "-001 图片库/Pasted image 20231114193807.png",
     "-001 图片库/Pasted image 20231114195107.png",
     "-001 图片库/Pasted image 20231114203703.png",
@@ -170,9 +161,7 @@
     "-001 图片库/Pasted image 20231114172549.png",
     "-001 图片库/Pasted image 20231114172307.png",
     "-001 图片库/Pasted image 20231114171934.png",
-    "-001 图片库/Pasted image 20231114171808.png",
     "003 笔记/半导体工艺原理/半导体工艺原理目录.md",
-    "004 inbox/Tanner 教程.md",
     "003 笔记/半导体工艺原理/半导体工艺原理.md",
     "003 笔记/半导体工艺原理/第一章 半导体衬底.md",
     "004 inbox/在 Ubuntu 上搭建使用 Jellyfin 的影视库.md",
