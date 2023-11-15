@@ -94,4 +94,7 @@
 13. 引入 `Out` 作为输出端口，放置在 Metal 1 上![[Pasted image 20231115143324.png]]
 14. 进行 *DRC* 检查，**保存**
 15. 使用 Metal 1 绘制电源线和地线，将 `Basecontact_P` 和 `PMOS` 的源极相连，`Basecontact_N` 和 `NMOS` 的源极相连![[Pasted image 20231115143948.png]]
-16. 使用 *Box Port* 工具通过框选定义端口 `Vdd` 、 `Gnd` 、 `In` 、 `Out` ![[Pasted image 20231115144109.png]]
+16. 使用 *Box Port* 工具通过框选定义端口 `Vdd` 、 `Gnd` 、 `In` 、 `Out` 。其中 `In` 和 `Out` 定义在 Metal 2 层![[Pasted image 20231115144109.png]]![[Pasted image 20231115144544.png]]
+## 五、使用 LVS 进行电路图与版图对比
+1. 提取版图的 `.spc` 文件
+	1. 
