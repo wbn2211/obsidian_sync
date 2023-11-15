@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-001 图片库/Pasted image 20231114224310.png"
+                "file": "-001 图片库/Pasted image 20231114224502.png"
               }
             }
           }
@@ -39,12 +39,12 @@
             }
           },
           {
-            "id": "d53d28607e68bd9b",
+            "id": "4e32446baaf49757",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "-001 图片库/Pasted image 20231114224310.png"
+                "file": "-001 图片库/Pasted image 20231114224502.png"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-001 图片库/Pasted image 20231114224310.png",
+                "file": "-001 图片库/Pasted image 20231114224502.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,9 +171,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d53d28607e68bd9b",
+  "active": "4e32446baaf49757",
   "lastOpenFiles": [
     "004 inbox/Tanner 教程.md",
+    "-001 图片库/Pasted image 20231114224437.png",
+    "-001 图片库/Pasted image 20231114224406.png",
+    "-001 图片库/Pasted image 20231114224310.png",
     "-001 图片库/Pasted image 20231115215420.png",
     "-001 图片库/Pasted image 20231115215416.png",
     "-001 图片库/Pasted image 20231114223637.png",
@@ -181,9 +184,6 @@
     "-001 图片库/Pasted image 20231114213314.png",
     "-001 图片库/Pasted image 20231114212828.png",
     "-001 图片库/Pasted image 20231114212536.png",
-    "-001 图片库/Pasted image 20231114212032.png",
-    "-001 图片库/Pasted image 20231114211819.png",
-    "-001 图片库/Pasted image 20231114211420.png",
     "003 笔记/Linux/2.1 Docker 的安装以及使用 Portainter 进行容器的部署和管理.md",
     "003 笔记/Linux/1.1 对 Linux 的初次设置相关.md",
     "003 笔记/Linux/3.1 搭建使用 Jellyfin 的影视库.md",
