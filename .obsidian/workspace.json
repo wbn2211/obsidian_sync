@@ -26,7 +26,7 @@
         "dimension": 81.96881091617934,
         "children": [
           {
-            "id": "c66a641d3073d25e",
+            "id": "4179ee32e1294455",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,6 +35,16 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "ff93abe233152c32",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "-001 图片库/Pasted image 20231114171808.png"
               }
             }
           }
@@ -147,8 +157,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c66a641d3073d25e",
+  "active": "4179ee32e1294455",
   "lastOpenFiles": [
+    "-001 图片库/Pasted image 20231114171808.png",
+    "-001 图片库/Pasted image 20231114171725.png",
+    "004 inbox/tanner 教程.md",
     "-001 图片库/Pasted image 20231115150035.png",
     "-001 图片库/Pasted image 20231115145332.png",
     "-001 图片库/Pasted image 20231115144929.png",
@@ -157,11 +170,8 @@
     "-001 图片库/Pasted image 20231115143948.png",
     "-001 图片库/Pasted image 20231115143324.png",
     "-001 图片库/Pasted image 20231115143235.png",
-    "004 inbox/tanner 教程.md",
     "003 笔记/半导体工艺原理/半导体工艺原理目录.md",
     "-001 图片库/Pasted image 20231115001118.png",
-    "-001 图片库/Pasted image 20231115000810.png",
-    "-001 图片库/Pasted image 20231115000517.png",
     "004 inbox/Tanner 教程.md",
     "003 笔记/半导体工艺原理/半导体工艺原理.md",
     "003 笔记/半导体工艺原理/第一章 半导体衬底.md",
