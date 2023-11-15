@@ -102,4 +102,6 @@
 	2. 设置 Lights.ext 的路径，该文件位于 `Tanner Tools v16.3\Designs\Lights` ，该文件安装 Tanner 时已经安装， SPICE extract output file 可以自定义输出的文件路径和文件名 ![[Pasted image 20231115145332.png]]
 	3. 设置结束后点击 *Tools > Extract* 进行导出，如果报错请检查前一步的导出设置和版图的 DRC 检测是否通过![[Pasted image 20231115150035.png]]
 2. 导出反相器的 `.spc` 文件，注意端口的名字与版图一致
-3. 打开 LVS ，点击 *File > New* ，选择 *LVS Setup* 
+3. 打开 LVS ，点击 *File > New* ，选择 *LVS Setup* ![[Pasted image 20231115234425.png]]![[Pasted image 20231115234440.png]]
+4. 选择版图网表和原理图网表![[Pasted image 20231115234545.png]]
+5. 选择输出文件路径和输出文件![[Pasted image 20231115234815.png]]
