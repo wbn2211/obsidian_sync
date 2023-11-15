@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004 inbox/tanner 教程.md"
+                "file": "-001 图片库/Pasted image 20231114172307.png"
               }
             }
           }
@@ -39,6 +39,16 @@
             }
           },
           {
+            "id": "39626948bd070b75",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "-001 图片库/Pasted image 20231114172307.png"
+              }
+            }
+          },
+          {
             "id": "070fb26b4153ff8e",
             "type": "leaf",
             "state": {
@@ -58,7 +68,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004 inbox/tanner 教程.md",
+                "file": "-001 图片库/Pasted image 20231114172307.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,10 +178,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4179ee32e1294455",
+  "active": "39626948bd070b75",
   "lastOpenFiles": [
-    "-001 图片库/Pasted image 20231114171934.png",
     "004 inbox/tanner 教程.md",
+    "-001 图片库/Pasted image 20231114171934.png",
     "-001 图片库/Pasted image 20231114171808.png",
     "-001 图片库/Pasted image 20231114171725.png",
     "-001 图片库/Pasted image 20231115150035.png",
@@ -180,7 +191,6 @@
     "-001 图片库/Pasted image 20231115144109.png",
     "-001 图片库/Pasted image 20231115143948.png",
     "-001 图片库/Pasted image 20231115143324.png",
-    "-001 图片库/Pasted image 20231115143235.png",
     "003 笔记/半导体工艺原理/半导体工艺原理目录.md",
     "004 inbox/Tanner 教程.md",
     "003 笔记/半导体工艺原理/半导体工艺原理.md",
