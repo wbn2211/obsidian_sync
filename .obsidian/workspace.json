@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003 笔记/Linux/1.1 对 Linux 的初次设置相关.md"
+                "file": "003 笔记/Linux/2.1 Docker 的安装以及使用 Portainter 进行容器的部署和管理.md"
               }
             }
           }
@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "003 笔记/Linux/1.1 对 Linux 的初次设置相关.md",
+                "file": "003 笔记/Linux/2.1 Docker 的安装以及使用 Portainter 进行容器的部署和管理.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003 笔记/Linux/1.1 对 Linux 的初次设置相关.md",
+                "file": "003 笔记/Linux/2.1 Docker 的安装以及使用 Portainter 进行容器的部署和管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,8 +193,8 @@
   },
   "active": "2a1219c55256c2fc",
   "lastOpenFiles": [
-    "004 inbox/Tanner 教程.md",
     "003 笔记/Linux/1.1 对 Linux 的初次设置相关.md",
+    "004 inbox/Tanner 教程.md",
     "003 笔记/Linux/2.1 Docker 的安装以及使用 Portainter 进行容器的部署和管理.md",
     "003 笔记/Linux/3.1 搭建使用 Jellyfin 的影视库.md",
     "003 笔记/Linux/在 Ubuntu 上搭建使用 Jellyfin 的影视库.md",
