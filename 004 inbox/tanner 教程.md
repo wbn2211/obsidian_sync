@@ -105,3 +105,4 @@
 3. 打开 LVS ，点击 *File > New* ，选择 *LVS Setup* ![[Pasted image 20231115234425.png]]![[Pasted image 20231115234440.png]]
 4. 选择版图网表和原理图网表![[Pasted image 20231115234545.png]]
 5. 选择输出文件路径和输出文件![[Pasted image 20231115234815.png]]
+6. 单击 *Run Verification* ![[Pasted image 20231116000014.png]]
