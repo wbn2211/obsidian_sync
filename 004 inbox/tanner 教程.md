@@ -106,4 +106,4 @@
 4. 选择版图网表和原理图网表![[Pasted image 20231115234545.png]]
 5. 选择输出文件路径和输出文件![[Pasted image 20231115234815.png]]
 6. 单击 *Run Verification* ，弹出 Circuits are equal. 即对比完成![[Pasted image 20231116000014.png]]![[Pasted image 20231116133458.png]]
-***PS9*** 
+***PS9*** 对于 16 版本的 Tanner ，需要打开
