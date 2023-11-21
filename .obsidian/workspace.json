@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004 inbox/第二章 扩散.md"
+                "file": "004 inbox/Tanner 教程.md"
               }
             }
           }
@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "003 笔记/半导体工艺原理/第一章 半导体衬底.md",
+                "file": "004 inbox/Tanner 教程.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,8 +111,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -132,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004 inbox/第二章 扩散.md",
+                "file": "004 inbox/Tanner 教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +174,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3cf219bf6aea9d2f",
+  "active": "5b3ac38e35f0b4a4",
   "lastOpenFiles": [
     "004 inbox/第二章 扩散.md",
     "003 笔记/半导体工艺原理/第一章 半导体衬底.md",
