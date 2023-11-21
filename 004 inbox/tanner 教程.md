@@ -63,26 +63,31 @@
 | 24 * 15 | 14 * 5 | 18 * 9   | 2 * 9 | 2 * 2          | 4 * 4   |
 4. 点击 *tool > DRC* 进行 DRC 检查，在中间下部 *Verification Navigator* 显示 `0 errors` 为正确，否则根据相关提示进行改正![[Pasted image 20231114233948.png]]
 5. 右键 Cell 区域 *New* 新建单元，并命名 `NMOS` ，根据表格绘制，并进行 *DRC* 检测和**保存**
+![[Pasted image 20231121164127.png]]
 
 | Active | N Select | Poly  | Active Contact | Metal 1 |
 | ------ | -------- | ----- | -------------- | ------- |
 | 14 * 5 | 18 * 9   | 2 * 9 | 2 * 2          | 4 * 4   | 
 6. 右键 Cell 区域 *New* 新建单元，并命名 `Basecontact_P` ，根据表格绘制，并进行 *DRC* 检测和**保存**
+![[Pasted image 20231121164211.png]]
 
 | N Well  | Active | N Select | Active Contact | Metal 1 |
 | ------- | ------ | -------- | -------------- | ------- |
 | 15 * 15 | 5 * 5  | 9 * 9    | 2 * 2          | 4 * 4   |
 7. 右键 Cell 区域 *New* 新建单元，并命名 `Basecontact_N` ，根据表格绘制，并进行 *DRC* 检测和**保存**
+![[Pasted image 20231121164204.png]]
 
 | Active | P Select | Active Contact | Metal 1 |
 | ------ | -------- | -------------- | ------- |
 | 5 * 5  | 9 * 9    | 2 * 2          | 4 * 4   |
 8. 右键 Cell 区域 *New* 新建单元，并命名 `Port_A` ，根据表格绘制，并进行 *DRC* 检测和**保存**
+![[Pasted image 20231121164221.png]]
 
 | Poly Contact | Poly  | Metal 1 | Via   | Metal 2 |
 | ------------ | ----- | ------- | ----- | ------- |
 | 2 * 2        | 5 * 5 | 10 * 4  | 2 * 2 | 4 * 4   |
 9. 右键 Cell 区域 *New* 新建单元，并命名 `Out` ，根据表格绘制，并进行 *DRC* 检测和**保存**
+![[Pasted image 20231121164230.png]]
 
 | Metal 2 | Via   |
 | ------- | ----- |
