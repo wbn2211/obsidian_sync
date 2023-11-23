@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004 inbox/第二章 扩散.md"
+                "file": "004 inbox/Tanner 教程.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004 inbox/第二章 扩散.md",
+                "file": "004 inbox/Tanner 教程.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004 inbox/第二章 扩散.md",
+                "file": "004 inbox/Tanner 教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,8 +160,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ab5363217d4c431f",
+  "active": "4179ee32e1294455",
   "lastOpenFiles": [
+    "004 inbox/第一章 拉格朗日方程和哈密顿方程.md",
+    "004 inbox/第零章.md",
+    "004 inbox/第二章 扩散.md",
+    "003 笔记/数字电子技术/第一章 数字电路基础.md",
+    "003 笔记/Linux/3.1 搭建使用 Jellyfin 的影视库.md",
+    "003 笔记/Linux/在 Ubuntu 上搭建使用 Jellyfin 的影视库.md",
+    "003 笔记/电路原理/第一章 电路基本概念.md",
     "未命名.canvas",
     "004 inbox/Tanner 教程.md",
     "-001 图片库/Pasted image 20231121164230.png",
@@ -170,29 +177,23 @@
     "-001 图片库/Pasted image 20231121164204.png",
     "-001 图片库/Pasted image 20231121164137.png",
     "-001 图片库/Pasted image 20231121164127.png",
-    "004 inbox/第二章 扩散.md",
     "003 笔记/半导体工艺原理/第一章 半导体衬底.md",
     "003 笔记/半导体工艺原理/半导体工艺原理目录.md",
-    "004 inbox/第零章.md",
     "-001 图片库/Pasted image 20231116133458.png",
     "-001 图片库/Pasted image 20231116000014.png",
     "-001 图片库/Pasted image 20231115234815.png",
     "-001 图片库/Pasted image 20231115234545.png",
     "003 笔记/Linux/2.1 Docker 的安装以及使用 Portainter 进行容器的部署和管理.md",
     "003 笔记/Linux/1.1 对 Linux 的初次设置相关.md",
-    "003 笔记/Linux/3.1 搭建使用 Jellyfin 的影视库.md",
-    "003 笔记/Linux/在 Ubuntu 上搭建使用 Jellyfin 的影视库.md",
     "004 inbox/在 Ubuntu 上搭建使用 Jellyfin 的影视库.md",
     "003 笔记/半导体工艺原理/半导体工艺原理.md",
     "001 书架/读书笔记/关于正确处理人民内部矛盾的问题.md",
-    "004 inbox/第一章 拉格朗日方程和哈密顿方程.md",
     "not_sync",
     "004 inbox/了解 IoT 解决方案的组件.md",
     "004 inbox/mems 课程考试重点.md",
     "003 笔记/互联网+/互联网+ 深紫外光线鉴别白酒真伪.md",
     "004 inbox/第一章 极限与连续.md",
     "003 笔记/电路原理/第五章 正弦交流电路的稳态分析.md",
-    "003 笔记/电路原理/第一章 电路基本概念.md",
     "003 笔记/半导体工艺原理",
     "000 模板合集/读书笔记模板.md",
     "002 游戏/csgo/kz+bhop参数.md",
