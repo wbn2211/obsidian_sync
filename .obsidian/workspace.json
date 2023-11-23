@@ -144,7 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 334.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,7 +160,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4179ee32e1294455",
+  "active": "ab5363217d4c431f",
   "lastOpenFiles": [
     "未命名.canvas",
     "004 inbox/Tanner 教程.md",
