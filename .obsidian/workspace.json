@@ -49,6 +49,14 @@
             }
           },
           {
+            "id": "8d9bebff82205daf",
+            "type": "leaf",
+            "state": {
+              "type": "langr-data-panel",
+              "state": {}
+            }
+          },
+          {
             "id": "2a1219c55256c2fc",
             "type": "leaf",
             "state": {
@@ -62,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,7 +208,7 @@
       "obsidian-language-learner:单词列表": false
     }
   },
-  "active": "f6ff30ea9afb8f25",
+  "active": "8d9bebff82205daf",
   "lastOpenFiles": [
     "004 inbox/复习提纲.md",
     "004 inbox/未命名.md",
