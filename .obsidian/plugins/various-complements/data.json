@@ -66,7 +66,7 @@
   "includeCurrentVaultPathPrefixPatterns": "",
   "excludeCurrentVaultPathPrefixPatterns": "",
   "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
-  "enableCustomDictionaryComplement": true,
+  "enableCustomDictionaryComplement": false,
   "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
   "columnDelimiter": "Comma",
   "customDictionaryWordRegexPattern": "",
