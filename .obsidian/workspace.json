@@ -42,9 +42,12 @@
             "id": "f6ff30ea9afb8f25",
             "type": "leaf",
             "state": {
-              "type": "langr-reading",
+              "type": "markdown",
               "state": {
-                "file": "004 inbox/未命名.md"
+                "file": "004 inbox/未命名.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
