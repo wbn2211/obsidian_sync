@@ -4,6 +4,7 @@ langr-audio: h
 langr-origin: <Electric car costs draw level with petrol and diesel>
 langr-pos: "5"
 ---
+
 ^^^article
 
 Rising fuel prices this year mean that the cost of owning and running an electric car is now lower than petrol or diesel in almost every country in Europe, according to data from automotive lease provider LeasePlan. Battery vehicles remain more expensive than traditional engine models to buy, although have lower running costs because of less maintenance and cheaper refuelling.
