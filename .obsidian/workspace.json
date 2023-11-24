@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004 inbox/mems 课程考试重点.md"
+                "file": "004 inbox/复习提纲.md"
               }
             }
           }
@@ -111,8 +111,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -132,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004 inbox/mems 课程考试重点.md",
+                "file": "004 inbox/复习提纲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +178,7 @@
       "obsidian-language-learner:单词列表": false
     }
   },
-  "active": "3cf219bf6aea9d2f",
+  "active": "032de1f03d69635f",
   "lastOpenFiles": [
     "004 inbox/mems 课程考试重点.md",
     "004 inbox/复习提纲.md",
