@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,8 +124,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -208,7 +207,7 @@
       "obsidian-language-learner:单词列表": false
     }
   },
-  "active": "8d9bebff82205daf",
+  "active": "f6ff30ea9afb8f25",
   "lastOpenFiles": [
     "004 inbox/复习提纲.md",
     "004 inbox/未命名.md",
