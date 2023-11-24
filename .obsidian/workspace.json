@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004 inbox/英语阅读.md"
+                "file": "003 笔记/英语/英语阅读.md"
               }
             }
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004 inbox/英语阅读.md",
+                "file": "003 笔记/英语/英语阅读.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004 inbox/英语阅读.md",
+                "file": "003 笔记/英语/英语阅读.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,15 +238,16 @@
   },
   "active": "7a15760ee68c0e13",
   "lastOpenFiles": [
-    "000 模板合集/英语阅读模板.md",
     "003 笔记/英语/阅读/Electric car costs draw level with petrol and diesel.md",
+    "003 笔记/英语/英语阅读.md",
+    "003 笔记/英语/阅读/How ChatGPT Can Improve Education, Not Threaten it.md",
+    "未命名",
+    "000 模板合集/英语阅读模板.md",
     "000 模板合集/笔记模板.md",
-    "004 inbox/英语阅读.md",
     "004 inbox/复习提纲.md",
     "003 笔记/英语/阅读",
     "004 inbox/mems 课程考试重点.md",
     "未命名.canvas",
-    "未命名",
     "003 笔记/集成电路设计自动化/Tanner 教程.md",
     "003 笔记/集成电路设计自动化",
     "004 inbox/第一章 拉格朗日方程和哈密顿方程.md",
@@ -279,7 +280,6 @@
     "004 inbox/第一章 极限与连续.md",
     "003 笔记/电路原理/第五章 正弦交流电路的稳态分析.md",
     "003 笔记/半导体工艺原理",
-    "000 模板合集/读书笔记模板.md",
     "001 书架/bookfromdouban.js",
     "001 书架/新建 Text Document.txt",
     "001 书架/moviefromdouban.js",
