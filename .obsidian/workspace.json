@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004 inbox/复习提纲.md"
+                "file": "004 inbox/未命名.md"
               }
             }
           }
@@ -39,6 +39,19 @@
             }
           },
           {
+            "id": "f6ff30ea9afb8f25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "004 inbox/未命名.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2a1219c55256c2fc",
             "type": "leaf",
             "state": {
@@ -51,7 +64,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004 inbox/复习提纲.md",
+                "file": "004 inbox/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -188,11 +202,13 @@
       "obsidian-language-learner:单词列表": false
     }
   },
-  "active": "4179ee32e1294455",
+  "active": "f6ff30ea9afb8f25",
   "lastOpenFiles": [
+    "004 inbox/复习提纲.md",
+    "004 inbox/未命名.md",
+    "003 笔记/英语/阅读",
     "004 inbox/mems 课程考试重点.md",
     "未命名.canvas",
-    "004 inbox/复习提纲.md",
     "未命名",
     "003 笔记/集成电路设计自动化/Tanner 教程.md",
     "003 笔记/集成电路设计自动化",
@@ -234,7 +250,6 @@
     "001 书架/新建 Text Document.txt",
     "001 书架/moviefromdouban.js",
     "001 书架/读书笔记",
-    "001 书架",
-    "003 笔记/互联网+"
+    "001 书架"
   ]
 }
