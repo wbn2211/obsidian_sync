@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003 笔记/英语/阅读/How ChatGPT Can Improve Education, Not Threaten it.md"
+                "file": "004 inbox/复习提纲.md"
               }
             }
           }
@@ -42,9 +42,12 @@
             "id": "4f7078c0e7ef66ad",
             "type": "leaf",
             "state": {
-              "type": "langr-reading",
+              "type": "markdown",
               "state": {
-                "file": "003 笔记/英语/阅读/How ChatGPT Can Improve Education, Not Threaten it.md"
+                "file": "004 inbox/复习提纲.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -123,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003 笔记/英语/阅读/How ChatGPT Can Improve Education, Not Threaten it.md",
+                "file": "004 inbox/复习提纲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,14 +189,14 @@
       "obsidian-language-learner:单词列表": false
     }
   },
-  "active": "4f7078c0e7ef66ad",
+  "active": "23ecf0768fa83314",
   "lastOpenFiles": [
+    "MEMS设计",
+    "003 笔记/英语/阅读/How ChatGPT Can Improve Education, Not Threaten it.md",
     "003 笔记/英语/英语阅读.md",
     "004 inbox/复习提纲.md",
-    "003 笔记/英语/阅读/How ChatGPT Can Improve Education, Not Threaten it.md",
     "003 笔记/英语/阅读/Electric car costs draw level with petrol and diesel.md",
     "000 模板合集/笔记模板.md",
-    "未命名",
     "000 模板合集/英语阅读模板.md",
     "003 笔记/英语/阅读",
     "004 inbox/mems 课程考试重点.md",
@@ -228,7 +231,6 @@
     "004 inbox/了解 IoT 解决方案的组件.md",
     "003 笔记/互联网+/互联网+ 深紫外光线鉴别白酒真伪.md",
     "004 inbox/第一章 极限与连续.md",
-    "003 笔记/电路原理/第五章 正弦交流电路的稳态分析.md",
     "003 笔记/半导体工艺原理",
     "001 书架/bookfromdouban.js",
     "001 书架/新建 Text Document.txt",
