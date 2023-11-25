@@ -2,6 +2,7 @@
 langr: English
 langr-audio: h
 langr-origin: <How ChatGPT Can Improve Education, Not Threaten it>
+langr-pos: "1"
 ---
 ^^^article
 To read the news, the sanctity of everything from college application essays to graduate school tests to medical licensing exams is imperiled by easy access to advanced artificial intelligence like ChatGPT, the AI chatbot that can produce remarkably clear, long-form answers to complex questions. Educators in particular worry about students turning to ChatGPT to help them complete assignments. One proposed solution is to roll back the clock to the 20th century, making students write exam essays using pen and paper, without the use of any Internet-connected electronic devices. The University of California, Los Angeles, where I teach, is considering making it an honor code violation to use ChatGPT for taking an exam or writing a paper.
@@ -14,7 +15,6 @@ When I was a middle and high school student in the late 1970s and early 1980s, I
 The upshot: I am helping my students to prepare for a future in which AI is simply another technology tool as opposed to a novelty. I am also telling them that they are solely and fully responsible for the writing they turn in bearing their name. If it’s factually inaccurate, that’s on them. If it’s badly organized, that’s on them. If it’s stylistically or logically inconsistent, that’s on them. If it’s partially plagiarized, that means that they have committed plagiarism. In short, I’m encouraging my students to become responsible, aware users of the AI technologies that will play a profoundly important role over the course of their careers. The AI writing, so to speak, is on the wall.
 
 ^^^words
-
-
++ **despite** : 不管
 
 ^^^notes

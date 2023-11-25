@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003 笔记/英语/英语阅读.md"
+                "file": "003 笔记/英语/阅读/How ChatGPT Can Improve Education, Not Threaten it.md"
               }
             }
           }
@@ -39,59 +39,12 @@
             }
           },
           {
-            "id": "f6ff30ea9afb8f25",
+            "id": "4f7078c0e7ef66ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "003 笔记/英语/阅读/Electric car costs draw level with petrol and diesel.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99da87d70cc03958",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000 模板合集/笔记模板.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a15760ee68c0e13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "003 笔记/英语/英语阅读.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d9bebff82205daf",
-            "type": "leaf",
-            "state": {
-              "type": "langr-data-panel",
-              "state": {}
-            }
-          },
-          {
-            "id": "2a1219c55256c2fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "003 笔记/Linux/2.1 Docker 的安装以及使用 Portainter 进行容器的部署和管理.md",
+                "file": "003 笔记/英语/阅读/How ChatGPT Can Improve Education, Not Threaten it.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003 笔记/英语/英语阅读.md",
+                "file": "003 笔记/英语/阅读/How ChatGPT Can Improve Education, Not Threaten it.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,15 +189,15 @@
       "obsidian-language-learner:单词列表": false
     }
   },
-  "active": "7a15760ee68c0e13",
+  "active": "4f7078c0e7ef66ad",
   "lastOpenFiles": [
-    "003 笔记/英语/阅读/Electric car costs draw level with petrol and diesel.md",
     "003 笔记/英语/英语阅读.md",
+    "004 inbox/复习提纲.md",
     "003 笔记/英语/阅读/How ChatGPT Can Improve Education, Not Threaten it.md",
+    "003 笔记/英语/阅读/Electric car costs draw level with petrol and diesel.md",
+    "000 模板合集/笔记模板.md",
     "未命名",
     "000 模板合集/英语阅读模板.md",
-    "000 模板合集/笔记模板.md",
-    "004 inbox/复习提纲.md",
     "003 笔记/英语/阅读",
     "004 inbox/mems 课程考试重点.md",
     "未命名.canvas",
