@@ -2,7 +2,7 @@
 langr: English
 langr-audio: h
 langr-origin: <How ChatGPT Can Improve Education, Not Threaten it>
-langr-pos: "1"
+langr-pos: "5"
 ---
 ^^^article
 To read the news, the sanctity of everything from college application essays to graduate school tests to medical licensing exams is imperiled by easy access to advanced artificial intelligence like ChatGPT, the AI chatbot that can produce remarkably clear, long-form answers to complex questions. Educators in particular worry about students turning to ChatGPT to help them complete assignments. One proposed solution is to roll back the clock to the 20th century, making students write exam essays using pen and paper, without the use of any Internet-connected electronic devices. The University of California, Los Angeles, where I teach, is considering making it an honor code violation to use ChatGPT for taking an exam or writing a paper.
