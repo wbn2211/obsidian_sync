@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004 inbox/复习提纲.md"
+                "file": "003 笔记/英语/阅读/How ChatGPT Can Improve Education, Not Threaten it.md"
               }
             }
           }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004 inbox/复习提纲.md",
+                "file": "003 笔记/英语/阅读/How ChatGPT Can Improve Education, Not Threaten it.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,12 +185,12 @@
       "obsidian-language-learner:单词列表": false
     }
   },
-  "active": "4f7078c0e7ef66ad",
+  "active": "4179ee32e1294455",
   "lastOpenFiles": [
+    "004 inbox/复习提纲.md",
     "-001 图片库/Pasted image 20231126140412.png",
     "-001 图片库/940e1b56f41b3879f74b48ee152cfcd6.jpg",
     "004 inbox/mems 课程考试重点.md",
-    "004 inbox/复习提纲.md",
     "-001 图片库/Pasted image 20231126102559.png",
     "-001 图片库/Pasted image 20231126101400.png",
     "003 笔记/英语/阅读/How ChatGPT Can Improve Education, Not Threaten it.md",
@@ -217,7 +216,6 @@
     "-001 图片库/Pasted image 20231121164211.png",
     "-001 图片库/Pasted image 20231121164204.png",
     "-001 图片库/Pasted image 20231121164137.png",
-    "-001 图片库/Pasted image 20231121164127.png",
     "003 笔记/半导体工艺原理/第一章 半导体衬底.md",
     "003 笔记/半导体工艺原理/半导体工艺原理目录.md",
     "003 笔记/Linux/2.1 Docker 的安装以及使用 Portainter 进行容器的部署和管理.md",
