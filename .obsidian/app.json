@@ -10,7 +10,7 @@
   "spellcheckLanguages": null,
   "showLineNumber": true,
   "trashOption": "local",
-  "strictLineBreaks": true,
+  "strictLineBreaks": false,
   "foldHeading": true,
   "foldIndent": true,
   "rightToLeft": false,
