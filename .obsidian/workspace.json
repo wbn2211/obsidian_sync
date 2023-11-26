@@ -6,7 +6,7 @@
       {
         "id": "8329133ef0e802c8",
         "type": "tabs",
-        "dimension": 30.553261767134593,
+        "dimension": 22.00956937799043,
         "children": [
           {
             "id": "6deada62165bc439",
@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003 笔记/英语/阅读/How ChatGPT Can Improve Education, Not Threaten it.md"
+                "file": "004 inbox/MEMS 复习提纲.md"
               }
             }
           }
@@ -23,7 +23,7 @@
       {
         "id": "7a259fedec5c4591",
         "type": "tabs",
-        "dimension": 69.4467382328654,
+        "dimension": 77.99043062200957,
         "children": [
           {
             "id": "4179ee32e1294455",
@@ -41,14 +41,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004 inbox/复习提纲.md",
+                "file": "004 inbox/MEMS 复习提纲.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003 笔记/英语/阅读/How ChatGPT Can Improve Education, Not Threaten it.md",
+                "file": "004 inbox/MEMS 复习提纲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -185,15 +186,15 @@
       "obsidian-language-learner:单词列表": false
     }
   },
-  "active": "4179ee32e1294455",
+  "active": "4f7078c0e7ef66ad",
   "lastOpenFiles": [
-    "004 inbox/复习提纲.md",
+    "003 笔记/英语/阅读/How ChatGPT Can Improve Education, Not Threaten it.md",
+    "004 inbox/MEMS 复习提纲.md",
     "-001 图片库/Pasted image 20231126140412.png",
     "-001 图片库/940e1b56f41b3879f74b48ee152cfcd6.jpg",
     "004 inbox/mems 课程考试重点.md",
     "-001 图片库/Pasted image 20231126102559.png",
     "-001 图片库/Pasted image 20231126101400.png",
-    "003 笔记/英语/阅读/How ChatGPT Can Improve Education, Not Threaten it.md",
     "003 笔记/英语/英语阅读.md",
     "-001 图片库/Pasted image 20231125150930.png",
     "MEMS设计",
