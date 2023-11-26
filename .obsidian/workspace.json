@@ -6,7 +6,7 @@
       {
         "id": "8329133ef0e802c8",
         "type": "tabs",
-        "dimension": 18.03118908382066,
+        "dimension": 30.553261767134593,
         "children": [
           {
             "id": "6deada62165bc439",
@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004 inbox/mems 课程考试重点.md"
+                "file": "004 inbox/复习提纲.md"
               }
             }
           }
@@ -23,7 +23,7 @@
       {
         "id": "7a259fedec5c4591",
         "type": "tabs",
-        "dimension": 40.98440545808967,
+        "dimension": 69.4467382328654,
         "children": [
           {
             "id": "4179ee32e1294455",
@@ -50,26 +50,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "a75be6ec06002ed0",
-        "type": "tabs",
-        "dimension": 40.98440545808967,
-        "children": [
-          {
-            "id": "727cd3bdd2578720",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "004 inbox/mems 课程考试重点.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004 inbox/mems 课程考试重点.md",
+                "file": "004 inbox/复习提纲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,10 +186,10 @@
       "obsidian-language-learner:单词列表": false
     }
   },
-  "active": "727cd3bdd2578720",
+  "active": "4f7078c0e7ef66ad",
   "lastOpenFiles": [
-    "004 inbox/复习提纲.md",
     "004 inbox/mems 课程考试重点.md",
+    "004 inbox/复习提纲.md",
     "-001 图片库/Pasted image 20231126102559.png",
     "-001 图片库/Pasted image 20231126101400.png",
     "003 笔记/英语/阅读/How ChatGPT Can Improve Education, Not Threaten it.md",
