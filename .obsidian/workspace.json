@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-001 图片库/Pasted image 20231114203703.png"
+                "file": "003 笔记/集成电路设计自动化/Tanner 教程.md"
               }
             }
           }
@@ -49,16 +49,6 @@
             }
           },
           {
-            "id": "d04de2a68bf16991",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "-001 图片库/Pasted image 20231114203703.png"
-              }
-            }
-          },
-          {
             "id": "5401d5ad698b3a65",
             "type": "leaf",
             "state": {
@@ -72,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-001 图片库/Pasted image 20231114203703.png",
+                "file": "003 笔记/集成电路设计自动化/Tanner 教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,8 +199,9 @@
       "obsidian-language-learner:单词列表": false
     }
   },
-  "active": "d04de2a68bf16991",
+  "active": "aead385b1b3780af",
   "lastOpenFiles": [
+    "-001 图片库/Pasted image 20231114203703.png",
     "003 笔记/集成电路设计自动化/Tanner 教程.md",
     "003 笔记/MEMS设计/MEMS 复习提纲.md",
     "003 笔记/MEMS设计/mems 课程考试重点.md",
@@ -251,7 +242,6 @@
     "not_sync",
     "004 inbox/了解 IoT 解决方案的组件.md",
     "003 笔记/互联网+/互联网+ 深紫外光线鉴别白酒真伪.md",
-    "004 inbox/第一章 极限与连续.md",
     "003 笔记/半导体工艺原理",
     "001 书架/bookfromdouban.js",
     "001 书架/新建 Text Document.txt",
