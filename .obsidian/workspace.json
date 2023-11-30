@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003 笔记/MEMS设计/mems 课程考试重点.md"
+                "file": "-001 图片库/Pasted image 20231114203703.png"
               }
             }
           }
@@ -41,10 +41,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "003 笔记/MEMS设计/MEMS 复习提纲.md",
+                "file": "003 笔记/集成电路设计自动化/Tanner 教程.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "d04de2a68bf16991",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "-001 图片库/Pasted image 20231114203703.png"
               }
             }
           },
@@ -136,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003 笔记/MEMS设计/mems 课程考试重点.md",
+                "file": "-001 图片库/Pasted image 20231114203703.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,11 +209,12 @@
       "obsidian-language-learner:单词列表": false
     }
   },
-  "active": "5401d5ad698b3a65",
+  "active": "d04de2a68bf16991",
   "lastOpenFiles": [
+    "003 笔记/集成电路设计自动化/Tanner 教程.md",
     "003 笔记/MEMS设计/MEMS 复习提纲.md",
-    "003 笔记/adb 命令汇总.md",
     "003 笔记/MEMS设计/mems 课程考试重点.md",
+    "003 笔记/adb 命令汇总.md",
     "003 笔记/英语/阅读/How ChatGPT Can Improve Education, Not Threaten it.md",
     "-001 图片库/Pasted image 20231126140412.png",
     "-001 图片库/940e1b56f41b3879f74b48ee152cfcd6.jpg",
@@ -217,7 +228,6 @@
     "000 模板合集/英语阅读模板.md",
     "003 笔记/英语/阅读",
     "未命名.canvas",
-    "003 笔记/集成电路设计自动化/Tanner 教程.md",
     "003 笔记/集成电路设计自动化",
     "004 inbox/第一章 拉格朗日方程和哈密顿方程.md",
     "004 inbox/第零章.md",
