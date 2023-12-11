@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003 笔记/英语/阅读/Electric car costs draw level with petrol and diesel.md"
+                "file": "004 inbox/Sum up for Electric car costs draw level with petrol and diesel.md"
               }
             }
           }
@@ -77,7 +77,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003 笔记/英语/阅读/Electric car costs draw level with petrol and diesel.md",
+                "file": "004 inbox/Sum up for Electric car costs draw level with petrol and diesel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,10 +216,10 @@
       "obsidian-language-learner:单词列表": false
     }
   },
-  "active": "4179ee32e1294455",
+  "active": "2fc9c1a150e3033a",
   "lastOpenFiles": [
-    "004 inbox/Sum up for Electric car costs draw level with petrol and diesel.md",
     "003 笔记/英语/阅读/Electric car costs draw level with petrol and diesel.md",
+    "004 inbox/Sum up for Electric car costs draw level with petrol and diesel.md",
     "003 笔记/英语/阅读/How ChatGPT Can Improve Education, Not Threaten it.md",
     "003 笔记/集成电路设计自动化/Tanner 教程.md",
     "-001 图片库/Pasted image 20231114203703.png",
