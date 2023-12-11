@@ -15,6 +15,33 @@ When I was a middle and high school student in the late 1970s and early 1980s, I
 The upshot: I am helping my students to prepare for a future in which AI is simply another technology tool as opposed to a novelty. I am also telling them that they are solely and fully responsible for the writing they turn in bearing their name. If it’s factually inaccurate, that’s on them. If it’s badly organized, that’s on them. If it’s stylistically or logically inconsistent, that’s on them. If it’s partially plagiarized, that means that they have committed plagiarism. In short, I’m encouraging my students to become responsible, aware users of the AI technologies that will play a profoundly important role over the course of their careers. The AI writing, so to speak, is on the wall.
 
 ^^^words
++ **accuracy** : 准确性
++ **adapt** : 适应
++ **advanced** : 先进的
++ **assignments** : 作业
++ **assistance** : 帮助
++ **coherent** : 有条理的
++ **compose** : 组成
 + **despite** : 不管
++ **detecting** : 发现
++ **elicit** : 得到
++ **enforcement** : 执行
++ **engage** : 有密切关系
++ **enhance** : 增强
++ **essays** : 事务
++ **ethically** : 有道德的
++ **evaluate** : 评估
++ **extraordinary** : 异乎寻常的
++ **imperiled** : 处于危险中
++ **institution** : 机构
++ **involving** : 涉及
++ **pedagogical** : 教育学的
++ **practical** : 真实的
++ **remain** : 保持
++ **remarkably** : 不寻常的
++ **sanctity** : 神圣性
++ **temptation** : 引诱
++ **threat** : 威胁
++ **worthwhile** : 重要的
 
 ^^^notes

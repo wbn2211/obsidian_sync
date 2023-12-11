@@ -40,4 +40,4 @@ While petrol and diesel refuelling costs remained similar across most areas, the
 
 ^^^notes
 
-
+![[Sum up for Electric car costs draw level with petrol and diesel ]]
