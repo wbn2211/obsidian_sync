@@ -31,6 +31,7 @@ While petrol and diesel refuelling costs remained similar across most areas, the
 + **premium** : 高品质的
 + **purchase** : 购买
 + **refuelling** : 补充燃料
++ **remain** : 保持
 + **remained** : 留下
 + **segment** : 细分市场
 + **significantly** : 显著地
@@ -39,5 +40,5 @@ While petrol and diesel refuelling costs remained similar across most areas, the
 + **widespread** : 广泛的
 
 ^^^notes
-
 ![[Sum up for Electric car costs draw level with petrol and diesel#^a3599a]]
+
