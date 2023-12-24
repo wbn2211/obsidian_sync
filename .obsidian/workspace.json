@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004 inbox/第二章 扩散.md"
+                "file": "004 inbox/未命名.md"
               }
             }
           }
@@ -37,8 +37,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "156e28529c1c999b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "004 inbox/未命名.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004 inbox/第二章 扩散.md",
+                "file": "004 inbox/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,15 +189,19 @@
       "obsidian-language-learner:单词列表": false
     }
   },
-  "active": "5d5df8065559e043",
+  "active": "23ecf0768fa83314",
   "lastOpenFiles": [
+    "004 inbox/未命名 1.md",
+    "004 inbox/未命名.md",
+    "003 笔记/高数/第十一章 曲线积分与曲面积分/11.7 斯托克斯公式.md",
+    "004 inbox/11.6 高斯公式.md",
+    "004 inbox/第二章 扩散.md",
     "004 inbox/3.2 部署 qbittorrent 下载资源.md",
     "003 笔记/MEMS设计/mems 课程考试重点.md",
     "004 inbox/第一章 极限与连续.md",
     "004 inbox/第一章 拉格朗日方程和哈密顿方程.md",
     "004 inbox/复变函数与积分变换.md",
     "004 inbox/了解 IoT 解决方案的组件.md",
-    "004 inbox/未命名.md",
     "003 笔记/英语/阅读/How ChatGPT Can Improve Education, Not Threaten it.md",
     "003 笔记/英语/总结/Sum up for Electric car costs draw level with petrol and diesel.md",
     "003 笔记/集成电路设计自动化/Tanner 教程.md",
@@ -205,7 +223,6 @@
     "未命名.canvas",
     "003 笔记/集成电路设计自动化",
     "004 inbox/第零章.md",
-    "004 inbox/第二章 扩散.md",
     "003 笔记/数字电子技术/第一章 数字电路基础.md",
     "003 笔记/Linux/3.1 搭建使用 Jellyfin 的影视库.md",
     "003 笔记/Linux/在 Ubuntu 上搭建使用 Jellyfin 的影视库.md",
@@ -215,9 +232,6 @@
     "-001 图片库/Pasted image 20231121164211.png",
     "-001 图片库/Pasted image 20231121164204.png",
     "003 笔记/半导体工艺原理/第一章 半导体衬底.md",
-    "003 笔记/半导体工艺原理/半导体工艺原理目录.md",
-    "003 笔记/Linux/2.1 Docker 的安装以及使用 Portainter 进行容器的部署和管理.md",
-    "003 笔记/Linux/1.1 对 Linux 的初次设置相关.md",
     "not_sync",
     "003 笔记/半导体工艺原理",
     "001 书架/bookfromdouban.js",
