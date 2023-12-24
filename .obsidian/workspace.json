@@ -6,7 +6,7 @@
       {
         "id": "8329133ef0e802c8",
         "type": "tabs",
-        "dimension": 19.258373205741627,
+        "dimension": 18.917345750873107,
         "children": [
           {
             "id": "6deada62165bc439",
@@ -14,24 +14,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003 笔记/英语/阅读/How ChatGPT Can Improve Education, Not Threaten it.md"
+                "file": "004 inbox/第二章 扩散.md"
               }
             }
           }
         ]
       },
       {
-        "id": "7a259fedec5c4591",
+        "id": "f67c1a689b83a7f0",
         "type": "tabs",
-        "dimension": 80.74162679425837,
+        "dimension": 81.08265424912689,
         "children": [
           {
-            "id": "4179ee32e1294455",
+            "id": "5d5df8065559e043",
             "type": "leaf",
             "state": {
-              "type": "langr-reading",
+              "type": "markdown",
               "state": {
-                "file": "003 笔记/英语/阅读/How ChatGPT Can Improve Education, Not Threaten it.md"
+                "file": "004 inbox/第二章 扩散.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -109,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003 笔记/英语/阅读/How ChatGPT Can Improve Education, Not Threaten it.md",
+                "file": "004 inbox/第二章 扩散.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,18 +175,22 @@
       "obsidian-language-learner:单词列表": false
     }
   },
-  "active": "4179ee32e1294455",
+  "active": "5d5df8065559e043",
   "lastOpenFiles": [
+    "004 inbox/3.2 部署 qbittorrent 下载资源.md",
+    "003 笔记/MEMS设计/mems 课程考试重点.md",
     "004 inbox/第一章 极限与连续.md",
+    "004 inbox/第一章 拉格朗日方程和哈密顿方程.md",
+    "004 inbox/复变函数与积分变换.md",
+    "004 inbox/了解 IoT 解决方案的组件.md",
+    "004 inbox/未命名.md",
+    "003 笔记/英语/阅读/How ChatGPT Can Improve Education, Not Threaten it.md",
     "003 笔记/英语/总结/Sum up for Electric car costs draw level with petrol and diesel.md",
     "003 笔记/集成电路设计自动化/Tanner 教程.md",
-    "003 笔记/英语/阅读/How ChatGPT Can Improve Education, Not Threaten it.md",
     "003 笔记/英语/阅读/Electric car costs draw level with petrol and diesel.md",
-    "004 inbox/未命名.md",
     "003 笔记/英语/总结",
     "-001 图片库/Pasted image 20231114203703.png",
     "003 笔记/MEMS设计/MEMS 复习提纲.md",
-    "003 笔记/MEMS设计/mems 课程考试重点.md",
     "003 笔记/adb 命令汇总.md",
     "-001 图片库/Pasted image 20231126140412.png",
     "-001 图片库/940e1b56f41b3879f74b48ee152cfcd6.jpg",
@@ -197,7 +204,6 @@
     "003 笔记/英语/阅读",
     "未命名.canvas",
     "003 笔记/集成电路设计自动化",
-    "004 inbox/第一章 拉格朗日方程和哈密顿方程.md",
     "004 inbox/第零章.md",
     "004 inbox/第二章 扩散.md",
     "003 笔记/数字电子技术/第一章 数字电路基础.md",
@@ -212,9 +218,6 @@
     "003 笔记/半导体工艺原理/半导体工艺原理目录.md",
     "003 笔记/Linux/2.1 Docker 的安装以及使用 Portainter 进行容器的部署和管理.md",
     "003 笔记/Linux/1.1 对 Linux 的初次设置相关.md",
-    "004 inbox/在 Ubuntu 上搭建使用 Jellyfin 的影视库.md",
-    "003 笔记/半导体工艺原理/半导体工艺原理.md",
-    "001 书架/读书笔记/关于正确处理人民内部矛盾的问题.md",
     "not_sync",
     "003 笔记/半导体工艺原理",
     "001 书架/bookfromdouban.js",
