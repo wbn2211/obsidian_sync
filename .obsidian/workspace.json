@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,8 +199,9 @@
       "obsidian-language-learner:单词列表": false
     }
   },
-  "active": "8e2756e7b8abfabb",
+  "active": "156e28529c1c999b",
   "lastOpenFiles": [
+    "004 inbox/第二章 扩散.md",
     "004 inbox/厚薄膜混合集成电路重点.md",
     "-001 图片库/Pasted image 20231224233630.png",
     "-001 图片库/Pasted image 20231224233622.png",
@@ -209,7 +210,6 @@
     "004 inbox/未命名 1.md",
     "003 笔记/高数/第十一章 曲线积分与曲面积分/11.7 斯托克斯公式.md",
     "004 inbox/11.6 高斯公式.md",
-    "004 inbox/第二章 扩散.md",
     "004 inbox/3.2 部署 qbittorrent 下载资源.md",
     "003 笔记/MEMS设计/mems 课程考试重点.md",
     "004 inbox/第一章 极限与连续.md",
