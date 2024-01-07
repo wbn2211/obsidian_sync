@@ -50,9 +50,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8e2756e7b8abfabb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -189,7 +199,7 @@
       "obsidian-language-learner:单词列表": false
     }
   },
-  "active": "156e28529c1c999b",
+  "active": "8e2756e7b8abfabb",
   "lastOpenFiles": [
     "004 inbox/厚薄膜混合集成电路重点.md",
     "-001 图片库/Pasted image 20231224233630.png",
