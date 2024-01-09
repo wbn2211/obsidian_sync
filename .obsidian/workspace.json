@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003 笔记/集成电路设计自动化/Tanner 教程.md"
+                "file": "003 笔记/MEMS设计/MEMS 复习提纲.md"
               }
             }
           }
@@ -55,14 +55,17 @@
             "id": "8e2756e7b8abfabb",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "003 笔记/MEMS设计/MEMS 复习提纲.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003 笔记/集成电路设计自动化/Tanner 教程.md",
+                "file": "003 笔记/MEMS设计/MEMS 复习提纲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,8 +202,9 @@
       "obsidian-language-learner:单词列表": false
     }
   },
-  "active": "156e28529c1c999b",
+  "active": "8e2756e7b8abfabb",
   "lastOpenFiles": [
+    "003 笔记/集成电路设计自动化/Tanner 教程.md",
     "004 inbox/第二章 扩散.md",
     "004 inbox/厚薄膜混合集成电路重点.md",
     "-001 图片库/Pasted image 20231224233630.png",
@@ -218,7 +222,6 @@
     "004 inbox/了解 IoT 解决方案的组件.md",
     "003 笔记/英语/阅读/How ChatGPT Can Improve Education, Not Threaten it.md",
     "003 笔记/英语/总结/Sum up for Electric car costs draw level with petrol and diesel.md",
-    "003 笔记/集成电路设计自动化/Tanner 教程.md",
     "003 笔记/英语/阅读/Electric car costs draw level with petrol and diesel.md",
     "003 笔记/英语/总结",
     "-001 图片库/Pasted image 20231114203703.png",
