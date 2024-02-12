@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003 笔记/Linux/3.1 搭建使用 Jellyfin 的影视库.md"
+                "file": "004 inbox/未命名.md"
               }
             }
           }
@@ -44,7 +44,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "003 笔记/Linux/3.1 搭建使用 Jellyfin 的影视库.md",
+                "file": "004 inbox/第一章 极限与连续.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e08c7b34d23f3b0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "003 笔记/考研-302-数学二/数学二(302)考试大纲.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "415e1935de80921a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "004 inbox/未命名.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -65,7 +91,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -139,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003 笔记/Linux/3.1 搭建使用 Jellyfin 的影视库.md",
+                "file": "004 inbox/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,8 +228,16 @@
       "obsidian-language-learner:单词列表": false
     }
   },
-  "active": "156e28529c1c999b",
+  "active": "415e1935de80921a",
   "lastOpenFiles": [
+    "003 笔记/考研-302-数学二/数学二(302)考试大纲.md",
+    "004 inbox/未命名.md",
+    "未命名",
+    "003 笔记/考研-302-数学二",
+    "004 inbox/第一章 极限与连续.md",
+    "004 inbox/0 系统安装.md",
+    "004 inbox/3.2 部署 qbittorrent 下载资源.md",
+    "003 笔记/Linux/3.1 搭建使用 Jellyfin 的影视库.md",
     "003 笔记/Linux/在 Ubuntu 上搭建使用 Jellyfin 的影视库.md",
     "003 笔记/集成电路设计自动化/Tanner 教程.md",
     "003 笔记/MEMS设计/MEMS 复习提纲.md",
@@ -216,9 +250,7 @@
     "004 inbox/未命名 1.md",
     "003 笔记/高数/第十一章 曲线积分与曲面积分/11.7 斯托克斯公式.md",
     "004 inbox/11.6 高斯公式.md",
-    "004 inbox/3.2 部署 qbittorrent 下载资源.md",
     "003 笔记/MEMS设计/mems 课程考试重点.md",
-    "004 inbox/第一章 极限与连续.md",
     "004 inbox/第一章 拉格朗日方程和哈密顿方程.md",
     "004 inbox/复变函数与积分变换.md",
     "004 inbox/了解 IoT 解决方案的组件.md",
@@ -241,14 +273,9 @@
     "未命名.canvas",
     "003 笔记/集成电路设计自动化",
     "004 inbox/第零章.md",
-    "003 笔记/数字电子技术/第一章 数字电路基础.md",
-    "003 笔记/Linux/3.1 搭建使用 Jellyfin 的影视库.md",
-    "003 笔记/电路原理/第一章 电路基本概念.md",
     "not_sync",
     "003 笔记/半导体工艺原理",
     "001 书架/bookfromdouban.js",
-    "001 书架/新建 Text Document.txt",
-    "001 书架/moviefromdouban.js",
-    "001 书架/读书笔记"
+    "001 书架/新建 Text Document.txt"
   ]
 }
