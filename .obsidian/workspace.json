@@ -6,7 +6,7 @@
       {
         "id": "8329133ef0e802c8",
         "type": "tabs",
-        "dimension": 18.917345750873107,
+        "dimension": 31.815956926089086,
         "children": [
           {
             "id": "6deada62165bc439",
@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003 笔记/高数/第十一章 曲线积分与曲面积分/11.2 对坐标的曲线积分.md"
+                "file": "004 inbox/第二章 扩散.md"
               }
             }
           }
@@ -23,7 +23,7 @@
       {
         "id": "f67c1a689b83a7f0",
         "type": "tabs",
-        "dimension": 81.08265424912689,
+        "dimension": 68.18404307391091,
         "children": [
           {
             "id": "5d5df8065559e043",
@@ -32,32 +32,6 @@
               "type": "markdown",
               "state": {
                 "file": "004 inbox/第二章 扩散.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "156e28529c1c999b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "004 inbox/第一章 极限与连续.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e08c7b34d23f3b0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "003 笔记/考研-302-数学二/数学二(302)考试大纲.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -83,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "003 笔记/高数/第十一章 曲线积分与曲面积分/11.4 对面积的曲面积分.md",
+                "file": "003 笔记/高数/定积分/微积分基本公式.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -103,8 +77,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003 笔记/高数/第十一章 曲线积分与曲面积分/11.2 对坐标的曲线积分.md",
+                "file": "004 inbox/第二章 扩散.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,18 +214,26 @@
       "obsidian-language-learner:单词列表": false
     }
   },
-  "active": "e672b3d7f020b901",
+  "active": "23ecf0768fa83314",
   "lastOpenFiles": [
-    "003 笔记/高数/第十一章 曲线积分与曲面积分/11.4 对面积的曲面积分.md",
-    "003 笔记/MEMS设计/MEMS 复习提纲.md",
-    "003 笔记/考研-302-数学二/一、函数、极限、连续.md",
+    "004 inbox/[[一、函数、极限、连续]].md",
     "003 笔记/考研-302-数学二/数学二(302)考试大纲.md",
-    "003 笔记/高数/第十一章 曲线积分与曲面积分/11.3 格林公式及应用.md",
+    "004 inbox/第一章 极限与连续.md",
+    "003 笔记/考研-302-数学二/一、函数、极限、连续.md",
+    "003 笔记/高数/定积分/微积分基本公式.md",
+    "003 笔记/高数/定积分/分部换元法.md",
+    "003 笔记/高数/定积分/定积分的概念与性质.md",
+    "003 笔记/高数/第十一章 曲线积分与曲面积分/11.7 斯托克斯公式.md",
+    "003 笔记/高数/第十二章 级数/12.2 常数项级数的审敛法.md",
+    "003 笔记/高数/第十二章 级数/12.1 常数项级数的概念和性质.md",
+    "003 笔记/高数/第十一章 曲线积分与曲面积分/11.5 对坐标的曲面积分.md",
+    "003 笔记/高数/第十一章 曲线积分与曲面积分/11.4 对面积的曲面积分.md",
     "003 笔记/高数/第十一章 曲线积分与曲面积分/11.2 对坐标的曲线积分.md",
+    "003 笔记/MEMS设计/MEMS 复习提纲.md",
+    "003 笔记/高数/第十一章 曲线积分与曲面积分/11.3 格林公式及应用.md",
     "004 inbox/().md",
     "未命名",
     "003 笔记/考研-302-数学二",
-    "004 inbox/第一章 极限与连续.md",
     "004 inbox/0 系统安装.md",
     "004 inbox/3.2 部署 qbittorrent 下载资源.md",
     "003 笔记/Linux/3.1 搭建使用 Jellyfin 的影视库.md",
@@ -265,18 +246,10 @@
     "-001 图片库/Pasted image 20231224233619.png",
     "-001 图片库/Pasted image 20231224232033.png",
     "004 inbox/未命名 1.md",
-    "003 笔记/高数/第十一章 曲线积分与曲面积分/11.7 斯托克斯公式.md",
     "004 inbox/11.6 高斯公式.md",
     "003 笔记/MEMS设计/mems 课程考试重点.md",
-    "004 inbox/第一章 拉格朗日方程和哈密顿方程.md",
-    "004 inbox/复变函数与积分变换.md",
-    "004 inbox/了解 IoT 解决方案的组件.md",
-    "003 笔记/英语/阅读/How ChatGPT Can Improve Education, Not Threaten it.md",
-    "003 笔记/英语/总结/Sum up for Electric car costs draw level with petrol and diesel.md",
-    "003 笔记/英语/阅读/Electric car costs draw level with petrol and diesel.md",
     "003 笔记/英语/总结",
     "-001 图片库/Pasted image 20231114203703.png",
-    "003 笔记/adb 命令汇总.md",
     "-001 图片库/Pasted image 20231126140412.png",
     "-001 图片库/940e1b56f41b3879f74b48ee152cfcd6.jpg",
     "-001 图片库/Pasted image 20231126102559.png",
