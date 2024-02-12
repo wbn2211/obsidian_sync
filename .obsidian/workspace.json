@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004 inbox/未命名.md"
+                "file": "003 笔记/高数/第十一章 曲线积分与曲面积分/11.2 对坐标的曲线积分.md"
               }
             }
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004 inbox/未命名.md",
+                "file": "003 笔记/考研-302-数学二/一、函数、极限、连续.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -83,7 +83,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "003 笔记/MEMS设计/MEMS 复习提纲.md",
+                "file": "003 笔记/高数/第十一章 曲线积分与曲面积分/11.4 对面积的曲面积分.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e672b3d7f020b901",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "003 笔记/高数/第十一章 曲线积分与曲面积分/11.2 对坐标的曲线积分.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -165,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004 inbox/未命名.md",
+                "file": "003 笔记/高数/第十一章 曲线积分与曲面积分/11.2 对坐标的曲线积分.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,10 +241,15 @@
       "obsidian-language-learner:单词列表": false
     }
   },
-  "active": "415e1935de80921a",
+  "active": "e672b3d7f020b901",
   "lastOpenFiles": [
+    "003 笔记/高数/第十一章 曲线积分与曲面积分/11.4 对面积的曲面积分.md",
+    "003 笔记/MEMS设计/MEMS 复习提纲.md",
+    "003 笔记/考研-302-数学二/一、函数、极限、连续.md",
     "003 笔记/考研-302-数学二/数学二(302)考试大纲.md",
-    "004 inbox/未命名.md",
+    "003 笔记/高数/第十一章 曲线积分与曲面积分/11.3 格林公式及应用.md",
+    "003 笔记/高数/第十一章 曲线积分与曲面积分/11.2 对坐标的曲线积分.md",
+    "004 inbox/().md",
     "未命名",
     "003 笔记/考研-302-数学二",
     "004 inbox/第一章 极限与连续.md",
@@ -240,7 +258,6 @@
     "003 笔记/Linux/3.1 搭建使用 Jellyfin 的影视库.md",
     "003 笔记/Linux/在 Ubuntu 上搭建使用 Jellyfin 的影视库.md",
     "003 笔记/集成电路设计自动化/Tanner 教程.md",
-    "003 笔记/MEMS设计/MEMS 复习提纲.md",
     "004 inbox/第二章 扩散.md",
     "004 inbox/厚薄膜混合集成电路重点.md",
     "-001 图片库/Pasted image 20231224233630.png",
@@ -264,15 +281,11 @@
     "-001 图片库/940e1b56f41b3879f74b48ee152cfcd6.jpg",
     "-001 图片库/Pasted image 20231126102559.png",
     "-001 图片库/Pasted image 20231126101400.png",
-    "003 笔记/英语/英语阅读.md",
     "-001 图片库/Pasted image 20231125150930.png",
     "003 笔记/MEMS设计",
-    "000 模板合集/笔记模板.md",
-    "000 模板合集/英语阅读模板.md",
     "003 笔记/英语/阅读",
     "未命名.canvas",
     "003 笔记/集成电路设计自动化",
-    "004 inbox/第零章.md",
     "not_sync",
     "003 笔记/半导体工艺原理",
     "001 书架/bookfromdouban.js",
