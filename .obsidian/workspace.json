@@ -6,7 +6,7 @@
       {
         "id": "8329133ef0e802c8",
         "type": "tabs",
-        "dimension": 21.451990632318502,
+        "dimension": 20.64327485380117,
         "children": [
           {
             "id": "6deada62165bc439",
@@ -23,7 +23,7 @@
       {
         "id": "f67c1a689b83a7f0",
         "type": "tabs",
-        "dimension": 39.27400468384075,
+        "dimension": 79.35672514619883,
         "children": [
           {
             "id": "415e1935de80921a",
@@ -32,143 +32,6 @@
               "type": "markdown",
               "state": {
                 "file": "003 笔记/考研-302-数学二/数学二(302)考试大纲.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f62bdfb61d2ad7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "004 inbox/未命名 2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea54372dd0eda0e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "004 inbox/未命名 3.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6dd85fff4a84c8a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "004 inbox/未命名 4.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e509172f5cbc9dc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "004 inbox/未命名 5.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c4874caa9b645d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "004 inbox/未命名 6.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9233675c8aeeeed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "004 inbox/未命名 7.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96414c4d171b82d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "004 inbox/未命名 8.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53d9e931d4a64b97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "004 inbox/未命名 9.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "e8026f943f19c365",
-        "type": "tabs",
-        "dimension": 39.27400468384075,
-        "children": [
-          {
-            "id": "4ac1b2901be56e25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "004 inbox/未命名.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1581582e0c1c49b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "004 inbox/未命名 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -292,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 425.5,
-    "collapsed": true
+    "width": 425.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -313,19 +175,19 @@
       "obsidian-language-learner:单词列表": false
     }
   },
-  "active": "415e1935de80921a",
+  "active": "23ecf0768fa83314",
   "lastOpenFiles": [
-    "004 inbox/未命名.md",
-    "004 inbox/未命名 9.md",
-    "004 inbox/未命名 8.md",
-    "004 inbox/未命名 7.md",
-    "004 inbox/未命名 6.md",
-    "004 inbox/未命名 5.md",
-    "004 inbox/未命名 4.md",
-    "004 inbox/未命名 3.md",
-    "004 inbox/未命名 2.md",
-    "004 inbox/未命名 1.md",
+    "004 inbox/11. 二次型.md",
     "003 笔记/考研-302-数学二/数学二(302)考试大纲.md",
+    "004 inbox/10. 矩阵的特征值和特征向量.md",
+    "004 inbox/9. 线性方程组.md",
+    "003 笔记/考研-302-数学二/8. 向量.md",
+    "003 笔记/考研-302-数学二/7. 矩阵.md",
+    "003 笔记/考研-302-数学二/6. 行列式.md",
+    "003 笔记/考研-302-数学二/5. 常微分方程.md",
+    "003 笔记/考研-302-数学二/4. 多元函数微积分学.md",
+    "003 笔记/考研-302-数学二/3. 一元函数积分学.md",
+    "003 笔记/考研-302-数学二/2. 一元函数微分学.md",
     "004 inbox/第一章 极限与连续.md",
     "004 inbox/11.6 高斯公式.md",
     "003 笔记/考研-882-半导体物理与器件/半导体物理与器件(882)考试大纲.md",
