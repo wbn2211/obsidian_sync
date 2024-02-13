@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004 inbox/第八章 多元函数微分法及其应用.md"
+                "file": "004 inbox/了解 IoT 解决方案的组件.md"
               }
             }
           }
@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004 inbox/第八章 多元函数微分法及其应用.md",
+                "file": "004 inbox/了解 IoT 解决方案的组件.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004 inbox/第八章 多元函数微分法及其应用.md",
+                "file": "004 inbox/了解 IoT 解决方案的组件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,9 +191,10 @@
   },
   "active": "cbcde242eafe02d3",
   "lastOpenFiles": [
+    "004 inbox/第八章 多元函数微分法及其应用.md",
+    "003 笔记/考研-302-数学二/数学二(302)考试大纲.md",
     "003 笔记/考研-302-数学二/1. 函数、极限、连续.md",
     "003 笔记/考研-882-半导体物理与器件/2. 半导体中杂质和缺陷能级.md",
-    "003 笔记/考研-302-数学二/数学二(302)考试大纲.md",
     "003 笔记/考研-882-半导体物理与器件/1. 半导体中的电子状态.md",
     "003 笔记/考研-882-半导体物理与器件/半导体物理与器件(882)考试大纲.md",
     "003 笔记/考研-302-数学二/11. 二次型.md",
@@ -220,7 +221,6 @@
     "未命名 1",
     "未命名",
     "004 inbox/一、函数、极限、连续.md",
-    "004 inbox/1..md",
     "003 笔记/考研-882-半导体物理与器件",
     "003 笔记/考研-302-数学二",
     "-001 图片库/Pasted image 20231224233630.png",
