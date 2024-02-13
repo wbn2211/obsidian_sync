@@ -6,5 +6,7 @@
   "accentColor": "",
   "enabledCssSnippets": [
     "user"
-  ]
+  ],
+  "monospaceFontFamily": "Consolas",
+  "textFontFamily": "宋体,Times New Roman"
 }
