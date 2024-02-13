@@ -123,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383
+    "width": 383,
+    "collapsed": true
   },
   "right": {
     "id": "685bc1eae2af133c",
@@ -182,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415
+    "width": 415,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,7 +204,7 @@
       "obsidian-language-learner:单词列表": false
     }
   },
-  "active": "e672b3d7f020b901",
+  "active": "6deada62165bc439",
   "lastOpenFiles": [
     "004 inbox/半导体物理与器件(882)考试大纲.md",
     "003 笔记/高数/定积分/微积分基本公式.md",
