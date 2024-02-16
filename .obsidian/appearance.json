@@ -7,5 +7,6 @@
     "user"
   ],
   "monospaceFontFamily": "Consolas",
-  "textFontFamily": "宋体,Times New Roman"
+  "textFontFamily": "宋体,Times New Roman",
+  "accentColor": ""
 }
