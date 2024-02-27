@@ -13,7 +13,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "003 笔记/考研-301-数学一/0.2024-数学一(301)-考试大纲.md"
+              }
             }
           }
         ]
@@ -35,17 +37,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e92438e69f2dcff7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "003 笔记/考研-301-数学一/0.2024-数学一(301)-考试大纲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +167,7 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "e92438e69f2dcff7",
+  "active": "af488c9bbcfc62e7",
   "lastOpenFiles": [
     "004 inbox/考研系列.md",
     "003 笔记/考研-302-数学二/0. 2024-数学二(302)-考试大纲.md",
