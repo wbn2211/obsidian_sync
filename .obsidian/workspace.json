@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003 笔记/考研-301-数学一/-1 附表1 泰勒公式及其展开式.md"
+                "file": "004 inbox/-2 附表二 常用等价无穷小替换.md"
               }
             }
           }
@@ -50,9 +50,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "72c5ec0b207cbfc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "004 inbox/-2 附表二 常用等价无穷小替换.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003 笔记/考研-301-数学一/-1 附表1 泰勒公式及其展开式.md",
+                "file": "004 inbox/-2 附表二 常用等价无穷小替换.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,10 +194,11 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "23ecf0768fa83314",
+  "active": "72c5ec0b207cbfc9",
   "lastOpenFiles": [
-    "003 笔记/考研-301-数学一/1.函数、极限、连续.md",
     "003 笔记/考研-301-数学一/-1 附表1 泰勒公式及其展开式.md",
+    "004 inbox/-2 附表二 常用等价无穷小替换.md",
+    "003 笔记/考研-301-数学一/1.函数、极限、连续.md",
     "004 inbox/函数的有界性、单调性、周期性和奇偶性.md",
     "003 笔记/考研-301-数学一/0.2024-数学一(301)-考试大纲.md",
     "003 笔记/考研-301-数学一/2.一元函数微分学.md",
@@ -208,7 +222,6 @@
     "003 笔记/考研-301-数学一/11.向量.md",
     "003 笔记/考研-301-数学一/13.矩阵的特征值和特征向量.md",
     "003 笔记/考研-301-数学一/10.矩阵.md",
-    "003 笔记/考研-301-数学一/6.多元函数积分学.md",
     "003 笔记/考研-301-数学一",
     "未命名.canvas",
     "003 笔记/集成电路设计自动化",
